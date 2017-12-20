@@ -3,23 +3,481 @@
 
   <head>
     <meta charset="utf-8">
-    <title>Index page</title>
+    <title>ESCO team</title>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#fff">
     <meta name="format-detection" content="telephone=no">
-    <link rel="stylesheet" media="all" href="css/app.css"> </head>
+    <link rel="apple-touch-icon" sizes="180x180" href="http://esco.team/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://esco.team/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://esco.team/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="http://esco.team/img/favicon/manifest.json">
+    <link rel="mask-icon" href="http://esco.team/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="ESCO team">
+    <meta name="application-name" content="ESCO team">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" media="all" href="css/app.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC9sxXvJDa0c9ZEYZU0RARb9AZ1LBxb74Y"></script>
+  </head>
 
   <body>
     <!-- BEGIN content -->
-    <div class="main_wrapper">
-      <h1>Index page</h1>
-      <p>Hello from partials/_header.html</p> <svg class="icon icon-facebook"><use xlink:href="img/sprite.svg#icon-facebook"></use></svg>
-      <li>Item1</li>
-      <li>Item2</li>
+    <div id="fullpage">
+      <header class="head section">
+        <div class="head__content">
+          <div class="head__night days" style="background-image: url(img/line_bg.svg),url(img/city_night.svg),url(img/step_line.svg),linear-gradient(to bottom, #008888, #174474);"></div>
+          <div class="head__day days" style="background-image: url(img/line_bg.svg),url(img/city_day.svg),url(img/step_line.svg),linear-gradient(to bottom, #006ACA, #A1EFE9);"></div>
+          <div class="sun">
+            <div class="ray_box">
+              <div class="ray ray1"></div>
+              <div class="ray ray2"></div>
+              <div class="ray ray3"></div>
+              <div class="ray ray4"></div>
+              <div class="ray ray5"></div>
+              <div class="ray ray6"></div>
+              <div class="ray ray7"></div>
+              <div class="ray ray8"></div>
+              <div class="ray ray9"></div>
+              <div class="ray ray10"></div>
+            </div>
+          </div>
+          <div class="moon"> <img src="img/moon.svg" alt="moon icon"> </div>
+          <!-- START logo -->
+          <div class="head__logo" style="background-image: url(img/logo_bg.svg);"> <a href="http://esco.team"><img src="img/logo.svg" alt="logotype ESCO"></a> </div>
+          <!-- END logo -->
+          <!-- START logo title text -->
+          <div class="head__logo-descr" style="background-image: url(img/logo_descr_bg.svg);">
+            <h1> ESCO - мультибрендовая Израильская компания.<br> Основное направление которой,<br> продвижение товаров и услуг<br> на международной арене. </h1>
+          </div>
+          <!-- END logo title text -->
+          <!-- START top contact & menu -->
+          <div class="head__top"> <a href=".nav" class="head__menu js_modal">
+				menu
+				<div class="head__menu__lines">
+					<div></div>
+					<div></div>
+					<div></div>
+				</div>
+			</a>
+            <div class="head__contact"> <a href="tel:+380935332431">+380 93 533 2431</a> <a href="tel:+380935332431"></a> </div>
+          </div>
+          <!-- END top contact & menu -->
+          <section class="head__center">
+            <div class="head__map"> <svg class="icon icon-map"><use xlink:href="img/sprite.svg#icon-map"></use></svg> <span>мы на карте</span></div>
+            <h2 class="js-splitme"> <span class="top_span sp">ПРИГЛАШАЕМ	</span><span class="sp">НА </span>РАБОТУ<br> <span class="dotline bottom_span"><span class="sp">С </span><span class="sp">ОПЫТОМ </span><span class="sp">И </span><span class="sp">БЕЗ </span></span>
+            </h2>
+            <h1> ESCO - мультибрендовая Израильская компания.<br> Основное направление которой,<br> продвижение товаров и услуг<br> на международной арене. </h1>
+          </section>
+        </div>
+      </header>
+      <section class="vacancy section">
+        <div id="particles-js"></div>
+        <div class="container">
+          <div class="vacancy__top">
+            <h3> Желаете, чтобы <span>успешная карьера</span><br> подружилась с Вами? </h3>
+            <div class="vacancy__top__icon">
+              <div class="icon_container"> <svg class="icon icon-chel"><use xlink:href="img/sprite.svg#icon-chel"></use></svg> <svg class="icon icon-fxa"><use xlink:href="img/sprite.svg#icon-fxa"></use></svg> <svg class="icon icon-fxb"><use xlink:href="img/sprite.svg#icon-fxb"></use></svg>                <svg class="icon icon-fxc"><use xlink:href="img/sprite.svg#icon-fxc"></use></svg> <svg class="icon icon-fxd"><use xlink:href="img/sprite.svg#icon-fxd"></use></svg> <svg class="icon icon-fxf"><use xlink:href="img/sprite.svg#icon-fxf"></use></svg>                <svg class="icon icon-fxs"><use xlink:href="img/sprite.svg#icon-fxs"></use></svg> </div>
+            </div>
+            <div class="vacancy__top__buttons"> <a class="button js_main_modal js_value" href=".modal" data-form="секция вакансий">
+							
+<svg class="icon icon-pensil"><use xlink:href="img/sprite.svg#icon-pensil"></use></svg>
+
+						<span class="button_text">
+							Записаться на	<br> собеседование
+						</span>
+						<div class="mask"></div>
+					</a> <a class="button" href="vacancy.html">
+					
+<svg class="icon icon-eye"><use xlink:href="img/sprite.svg#icon-eye"></use></svg>
+
+					<span class="button_text">
+						Открытые ваканси
+					</span>
+					<div class="mask"></div>
+				</a> </div>
+          </div>
+          <div class="vacancy__list">
+            <a href="#" class="vacancy__item">
+              <div class="vacancy__item__number"> <span class="js_animate_vacancy" data-count="18"></span> </div>
+              <div class="vacancy__item__icon"> <svg class="icon icon-phone_vacancy"><use xlink:href="img/sprite.svg#icon-phone_vacancy"></use></svg>
+                <div id="scene" class="vacancy__item__circle par_1">
+                  <div data-depth="1" class="dashed"></div>
+                </div>
+              </div>
+              <div class="vacancy__item__desr"> Международные <br> мобильные операторы </div>
+            </a>
+            <a href="#" class="vacancy__item">
+              <div class="vacancy__item__number"> <span class="js_animate_vacancy" data-count="9"></span> </div>
+              <div class="vacancy__item__icon"> <svg class="icon icon-tv_vacancy"><use xlink:href="img/sprite.svg#icon-tv_vacancy"></use></svg>
+                <div class="vacancy__item__circle par_2">
+                  <div data-depth="1" class="solid"></div>
+                </div>
+              </div>
+              <div class="vacancy__item__desr"> Сфера телевидения и <br> интернет услуг </div>
+            </a>
+            <a href="#" class="vacancy__item">
+              <div class="vacancy__item__number"> <span class="js_animate_vacancy" data-count="11"></span> </div>
+              <div class="vacancy__item__icon"> <svg class="icon icon-cosmetic_vacancy"><use xlink:href="img/sprite.svg#icon-cosmetic_vacancy"></use></svg>
+                <div class="vacancy__item__circle par_3">
+                  <div data-depth="1" class="dashed"></div>
+                </div>
+              </div>
+              <div class="vacancy__item__desr"> Консультации в сфере <br> косметологии </div>
+            </a>
+            <a href="#" class="vacancy__item">
+              <div class="vacancy__item__number"> <span class="js_animate_vacancy" data-count="16"></span> </div>
+              <div class="vacancy__item__icon"> <svg class="icon icon-credit_vacancy"><use xlink:href="img/sprite.svg#icon-credit_vacancy"></use></svg>
+                <div class="vacancy__item__circle par_4">
+                  <div data-depth="1" class="solid"></div>
+                </div>
+              </div>
+              <div class="vacancy__item__desr"> Помощь в кредитовании </div>
+            </a>
+          </div>
+        </div>
+      </section>
+      <section class="people section">
+        <div class="people__main">
+          <h3><span>Для</span> кого?</h3>
+          <div class="people__people">
+            <div class="people__sun" style="background-image: url(img/boys.svg);"></div>
+            <p>Для людей с <span>амбициями</span></p>
+            <p> Возможно<br> <span>без опыта</span> работы </p>
+            <p> Возрастом<br> от <span>16</span> до <span>60</span> лет </p>
+            <p> Людям, которые хотят<br> <span>зарабатывать больше</span> </p>
+          </div>
+        </div>
+        <div class="people__city">
+          <div class="people__city__container">
+            <!-- start parallax houses -->
+            <div id="city_js_parallax" class="people__town">
+              <div data-depth="0.6" class="people__city__first" style="background-image: url(img/c1.svg);"></div>
+              <div data-depth="0.4" class="people__city__third" style="background-image: url(img/c1.svg);"></div>
+              <div data-depth="0.3" class="people__city__four" style="background-image: url(img/c4.svg);"></div>
+              <div data-depth="0.7" class="people__city__five" style="background-image: url(img/c5.svg);"></div>
+              <div data-depth="0.9" class="people__city__six" style="background-image: url(img/c5.svg);"></div>
+              <div data-depth="0.9" class="people__city__seven" style="background-image: url(img/c5.svg);"></div>
+            </div>
+            <!-- end parallax houses -->
+            <!-- start metro -->
+            <div class="metro" style="background-image: url(img/metro.svg);"></div>
+            <!-- end metro -->
+            <!-- start walk guy -->
+            <div class="walk">
+              <div class="walk__men" style="background-image: url(img/walk.png);"></div>
+            </div>
+            <!-- end walk guy -->
+            <!-- start road -->
+            <div class="people__road" style="background-image: url(img/road.svg);">
+              <div class="people__traffic">
+                <div class="people__car car1" style="background-image: url(img/car.svg);">
+                  <div class="people__car__wheel"></div>
+                  <div class="people__car__wheel"></div>
+                </div>
+                <div class="people__car car2" style="background-image: url(img/car.svg);">
+                  <div class="people__car__wheel"></div>
+                  <div class="people__car__wheel"></div>
+                </div>
+              </div>
+            </div>
+            <!-- end road -->
+          </div>
+        </div>
+      </section>
+      <section class="steps section">
+        <!-- wrapper start -->
+        <div class="steps__wrapper">
+          <!-- start content container -->
+          <div class="steps__container">
+            <!-- metro place start-->
+            <div class="steps__metro" style="background-image: url(img/rails.png), url(img/c.png);"> <svg class="icon icon-metro_title"><use xlink:href="img/sprite.svg#icon-metro_title"></use></svg>
+              <div class="steps__steps">
+                <div class="steps__text-container">
+                  <p>Оставляете заявку на сайте</p>
+                  <p> приходите к нам в офис <br> проходите собеседование </p>
+                  <p> проходите 2-х дневный инструктаж <br> за счет нашей компании </p>
+                  <p> начинаете <br> стажировку </p>
+                  <p> Становитесь полноценным <br> членом нашей команды <br> проффесионалов </p>
+                  <p> показываете высокие <br> результаты </p>
+                  <ul class="steps__numbers">
+                    <li><span>1</span></li>
+                    <li><span>2</span></li>
+                    <li><span>3</span></li>
+                    <li><span>4</span></li>
+                    <li><span>5</span></li>
+                    <li><span>6</span></li>
+                  </ul>
+                  <div class="steps__finish">
+                    <div>FIN&nbsp;&nbsp;SH</div> Вы успешный <span>руководитель</span><br> своего отдела <br> Вы финансово <span>независимы</span> </div>
+                </div>
+              </div>
+              <!-- start train animated -->
+              <div class="steps__train" style="background-image: url(img/train.svg);"></div>
+              <!-- end train animated -->
+              <!-- 				<div class="steps__line" style="background-image: url(img/shema.svg);">
+					
+				</div> --></div>
+            <!-- metro place end-->
+          </div>
+          <!-- start content container -->
+        </div>
+        <!-- wrapper end -->
+      </section>
+      <section class="section train">
+        <h3 class="train__title">Что Вы <span>получите?</span></h3>
+        <div class="train__container">
+          <div class="train__windows">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+          <div class="train__people">
+            <div id="train_js_parallax" class="train__people__parallax">
+              <div data-depth="0.2" class="train__girl1" style="background-image: url(img/people1.svg);"></div>
+              <div data-depth="0.5" class="train__girl2" style="background-image: url(img/people2.svg);"></div>
+              <div data-depth="0.7" class="train__men" style="background-image: url(img/people3.svg);"></div>
+            </div>
+          </div>
+          <div class="train__clouds__container">
+            <div class="train__clouds">
+              <div class="cloud1">Стабильную з/п</div>
+              <div class="cloud2"> Молодой<br> коллектив </div>
+              <div class="cloud3"> Карьерный<br> рост </div>
+              <div class="cloud4"> Удобный график </div>
+              <div class="cloud9"> Современный<br> офис </div>
+              <div class="cloud5"> Мотивирующие<br> денежные<br> вознаграждения </div>
+              <div class="cloud6"> Корпоративы<br> внутри компании </div>
+              <div class="cloud7"> Бесплатное<br> обучение </div>
+              <div class="cloud8"> Удобное<br> место положение </div>
+            </div>
+          </div> <a href=".modal" class="js_value js_main_modal train__button button" data-form="секция что вы получите">Отправить заявку<div class="mask"></div></a>
+          <div class="train__track track1"></div>
+          <div class="train__track track2"></div>
+        </div>
+      </section>
+      <section class="section photo">
+        <div class="photo__container">
+          <div class="slide" style="background-image: url(img/1.jpg);"></div>
+          <div class="slide" style="background-image: url(img/1.jpg);"></div>
+          <div class="photo__slider-buttons">
+            <div class="photo__slide-right"> <svg class="icon icon-next"><use xlink:href="img/sprite.svg#icon-next"></use></svg> </div>
+            <div class="photo__slide-left"> <svg class="icon icon-prev"><use xlink:href="img/sprite.svg#icon-prev"></use></svg> </div>
+          </div>
+        </div>
+        <div class="photo__content" style="background-image: url(img/photoBG.svg);">
+          <div class="photo__content-wrap">
+            <h3> Хотите работать в <br> <span>дружеской атмосфере?</span> </h3>
+            <div class="photo__content__button"> <a href=".modal" class="js_main_modal button js_value" data-form="секция фото">
+						Присоединиться
+						<div class="mask"></div>
+					</a> </div>
+          </div>
+        </div>
+      </section>
+      <section class="section contact">
+        <div class="contact__container">
+          <div class="filial">
+            <div class="filial__content" style="background-image: url(img/office_esco.svg);">
+              <div class="filial__title"> Наши <span>Контакты</span><span>филиалы</span> </div>
+              <ul class="js_map_city filial__list">
+                <li id="js_map_city1" class="js_map_city active" data-map="kiev">Киев</li>
+                <li id="js_map_city2" class="js_map_city" data-map="kharkiv">Харьков</li>
+                <li id="js_map_city3" class="js_map_city" data-map="odessa">Одесса</li>
+                <li id="js_map_city4" class="js_map_city" data-map="kherson">Херсон</li>
+              </ul>
+              <div class="filial__contacts">
+                <ul class="kiev active">
+                  <li><span>ул. Старокиевская 10Г БЦ "ВЕКТОР"<br>корпус А, 4й этаж</span></li>
+                  <li><a href="tel:+380935332431"><span>+380 93 533 2431</span></a></li>
+                  <li><span>hr@esco.team</span></li>
+                </ul>
+                <ul class="kharkiv">
+                  <li><span>ул. Полтавский Шлях 58 оф. 515</span></li>
+                  <li><a href="tel:+380635778040"><span>+380 63 577 80 40</span></a></li>
+                  <li><span>hr@esco.team</span></li>
+                </ul>
+                <ul class="odessa">
+                  <li><span>ул. Юрия Олеши 4 оф. 1</span></li>
+                  <li><a href="tel:+380635125334"><span>+380 63 512 5334</span></a></li>
+                  <li><span>hr@esco.team</span></li>
+                </ul>
+                <ul class="kherson">
+                  <li><span>ул. Вячеслава Черновола 17а<br>2 этаж оф. 207</span></li>
+                  <li><a href="tel:+380954810269"><span>+380 95 481 0269</span></a></li>
+                  <li><span>hr@esco.team</span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="map">
+            <div id="map"></div>
+          </div>
+        </div>
+        <script>
+          var map;
+
+          function initialize()
+          {
+            var firstPosition = {
+              lat: 50.4512059,
+              lng: 30.473671
+            };
+            map = new google.maps.Map(document.getElementById('map'),
+            {
+              center: new google.maps.LatLng(50.4512059, 30.473671), // Munich Germany
+              zoom: 14,
+            });
+            var marker = new google.maps.Marker(
+            {
+              position: firstPosition,
+              map: map,
+            });
+          }
+
+          function newLocation(newLat, newLng)
+          {
+            var myNewLatLng = {
+              lat: newLat,
+              lng: newLng
+            };
+            map.setCenter(
+            {
+              lat: newLat,
+              lng: newLng,
+              zoom: 20
+            });
+            var marker = new google.maps.Marker(
+            {
+              position: myNewLatLng,
+              map: map,
+            });
+          }
+          google.maps.event.addDomListener(window, 'load', initialize);
+
+        </script>
+      </section>
+      <footer class="section footer fp-auto-height">
+        <!-- start container footer -->
+        <div class="footer__container">
+          <!-- start top footer -->
+          <div class="footer__top">
+            <!-- start footer mail & tel -->
+            <div class="footer__contact"> <a href="mailto:hr@esco.team">hr@esco.team 
+<svg class="icon icon-mail"><use xlink:href="img/sprite.svg#icon-mail"></use></svg>
+</a> <a href="tel:+380935332431">
+<svg class="icon icon-phone"><use xlink:href="img/sprite.svg#icon-phone"></use></svg>
+ +380 93 533 2431</a> </div>
+            <!-- end footer mail & tel -->
+            <!-- start footer call-back button --><a href=".modal" class="js_main_modal footer__call-back js_value" data-form="секция контакты">Обратная связь 
+<svg class="icon icon-footer_arr"><use xlink:href="img/sprite.svg#icon-footer_arr"></use></svg>
+</a>
+            <!-- end footer call-back button -->
+            <!-- start button go-top -->
+            <div class="footer__go-top js_scroll-top">подняться наверх <svg class="icon icon-arrow_up"><use xlink:href="img/sprite.svg#icon-arrow_up"></use></svg> </div>
+            <!-- end button go-top -->
+          </div>
+          <!-- end top footer -->
+          <!-- start footer logo & place & socials -->
+          <div class="footer__center">
+            <!-- footer logo -->
+            <div class="footer__logo"> <a href="#">
+<svg class="icon icon-footer_logo"><use xlink:href="img/sprite.svg#icon-footer_logo"></use></svg>
+</a> </div>
+            <!-- end footer logo -->
+            <!-- footer place text -->
+            <div class="footer__place"> <a href="#">
+					
+<svg class="icon icon-foote_map"><use xlink:href="img/sprite.svg#icon-foote_map"></use></svg>
+
+					<span>Киев, СТАРОКИЕВСКАЯ 10-Г</span><br>
+					Бизнес центр «Вектор», корпус А
+				</a> </div>
+            <!-- end place text -->
+            <!-- start socials -->
+            <div class="footer__socials"> <a href="#">
+<svg class="icon icon-fb"><use xlink:href="img/sprite.svg#icon-fb"></use></svg>
+</a> <a href="#">
+<svg class="icon icon-vk"><use xlink:href="img/sprite.svg#icon-vk"></use></svg>
+</a> <a href="#">
+<svg class="icon icon-int"><use xlink:href="img/sprite.svg#icon-int"></use></svg>
+</a> <a href="#">
+<svg class="icon icon-ok"><use xlink:href="img/sprite.svg#icon-ok"></use></svg>
+</a> </div>
+            <!-- end socials -->
+          </div>
+          <!-- end footer logo & place & socials -->
+          <!-- footer copyrate -->
+          <div class="footer__bottom">
+            <p>© 2017 Esco <span>studio</span></p>
+          </div>
+          <!-- footer copyrate -->
+        </div>
+        <!-- end container footer -->
+      </footer>
+    </div>
+    <ul class="nav js_nav-menu zoom-anim-dialog mfp-hide">
+      <li class="button active" data-menuanchor="main"> <a href="index.html#main">Главная</a>
+        <div class="mask"></div>
+      </li>
+      <li class="button" data-menuanchor="vacancy"> <a href="index.html#vacancy">Вакансии и направления</a>
+        <div class="mask"></div>
+      </li>
+      <li class="button" data-menuanchor="people"> <a href="index.html#people">Для кого</a>
+        <div class="mask"></div>
+      </li>
+      <li class="button" data-menuanchor="steps"> <a href="index.html#steps">Карьера</a>
+        <div class="mask"></div>
+      </li>
+      <li class="button" data-menuanchor="train"> <a href="index.html#train">Что вы получите</a>
+        <div class="mask"></div>
+      </li>
+      <li class="button" data-menuanchor="photo"> <a href="index.html#photo">Работать с нами</a>
+        <div class="mask"></div>
+      </li>
+      <li class="button" data-menuanchor="maps"> <a href="index.html#maps">Контакты</a>
+        <div class="mask"></div>
+      </li>
+    </ul>
+    <div class="fix_nav">
+      <div class="fix_nav__container"> <a href="http://esco.team/" class="fix_nav__logo">
+			<img src="img/fix_nav_logo.svg" alt="ESCO team logo">
+		</a> <a class="fix_nav__button button js_main_modal js_value" href=".modal" data-form="секция вакансий">
+					
+<svg class="icon icon-pensil"><use xlink:href="img/sprite.svg#icon-pensil"></use></svg>
+
+				<span class="button_text">
+					Записаться на собеседование
+				</span>
+		</a>
+        <div class="head__contact"> <a href="tel:+380935332431">+380 93 533 2431</a> <a href="tel:+380935332431"></a> </div> <a href=".nav" class="head__menu js_modal">
+			menu
+			<div class="head__menu__lines">
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</a> </div>
+    </div>
+    <div class="modal zoom-anim-dialog mfp-hide">
+      <div class="modal__container">
+        <div class="modal__bg" style="background-image: url(img/modal.jpg);">
+          <h4> Записаться на<br> <span>собеседование</span> </h4>
+        </div>
+        <form class="modal__form js_send_mail">
+          <!-- Hidden Required Fields --><input type="hidden" name="project_name" value="ESCO team website"> <input type="hidden" name="admin_email" value="dianaesco007@gmail.com"> <input type="hidden" name="form_subject" value="Заявка на собеседование"> <input class="form_id" type="hidden"
+            name="кнопка" value="">
+          <!-- END Hidden Required Fields --><label>
+				<input name="Имя" type="text" placeholder="Ваше имя" required>
+			</label> <label>
+				<input name="Телефон" type="mail" placeholder="Ваш телефон" required>
+			</label> <label>
+				<textarea name="Комментарий" placeholder="Комментарий"></textarea>
+			</label> <button>Отправить</button> </form>
+      </div>
     </div>
     <!-- END content -->
     <!-- BEGIN scripts -->
+    <script type="text/javascript" src="lib/scrolloverflow.min.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
     <!-- END scripts -->
   </body>

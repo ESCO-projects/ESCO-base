@@ -1,0 +1,1765 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 327.9 227.9">
+    <style>
+        .st0{fill:#d7e24d}.st1{fill:#f4ede1}.st2{fill:none;stroke:#f4ede1;stroke-width:5;stroke-miterlimit:10}.st3{opacity:.4}.st4{fill:#231f20}.st5{opacity:.2}.st6{enable-background:new}.st7{fill:#e3e0d7}.st8{fill:#15c3ce}.st9{fill:#939598}.st10{fill:#ffc17d}.st11{fill:#fffefb}.st12{fill:#374550}.st13{fill:#efb27f}.st14{fill:#f9cfa9}.st15{fill:#f9f9f7}.st16{fill:#d4725f}.st17{fill:#5a5c60}.st18{opacity:.3}.st19{fill:#55e3f2}.st20{clip-path:url(#SVGID_2_);enable-background:new}.st21{fill:#ccc}.st22{fill:#c7c7c7}.st23{fill:#c2c2c2}.st24{fill:#bdbdbd}.st25{fill:#b8b8b8}.st26{fill:#b3b3b3}.st27{fill:#adadad}.st28{fill:#a8a8a8}.st29{fill:#a3a3a3}.st30{fill:#9e9e9e}.st31{clip-path:url(#SVGID_4_);enable-background:new}.st32{fill:#858585}.st33{fill:#888}.st34{fill:#dbdbdb}.st35{clip-path:url(#SVGID_6_);enable-background:new}.st36{fill:#8a8a8a}.st37{fill:#8f8f8f}.st38{fill:#949494}.st39{fill:#999}.st40{fill:#c5c5c5}.st41{clip-path:url(#SVGID_8_);enable-background:new}.st42{fill:#9a822c}.st43{fill:#9e862d}.st44{fill:#a38a2e}.st45{fill:#a78d30}.st46{fill:#ab9131}.st47{fill:#af9432}.st48{fill:#b49833}.st49{fill:#b89c34}.st50{fill:#bc9f36}.st51{fill:#c1a337}.st52{fill:#c5a738}.st53{fill:#c9aa39}.st54{fill:#cdae3b}.st55{fill:#d2b13c}.st56{fill:#d6b53d}.st57{fill:#dbbe54}.st58{fill:#ddc25e}.st59{fill:#dfc465}.st60{fill:#e0c76c}.st61{fill:#e1c971}.st62{fill:#a58c2f}.st63{fill:#b89c35}.st64{clip-path:url(#SVGID_10_);enable-background:new}.st65{fill:#6f5e20}.st66{fill:#746221}.st67{fill:#786522}.st68{fill:#7c6923}.st69{fill:#806d25}.st70{fill:#857026}.st71{fill:#897427}.st72{fill:#8d7728}.st73{fill:#927b29}.st74{fill:#967f2b}.st75,.st76,.st77{clip-path:url(#SVGID_12_);enable-background:new}.st76,.st77{clip-path:url(#SVGID_14_)}.st77{clip-path:url(#SVGID_16_)}.st78,.st79,.st80,.st81{clip-path:url(#SVGID_18_);enable-background:new}.st79,.st80,.st81{clip-path:url(#SVGID_20_)}.st80,.st81{clip-path:url(#SVGID_22_)}.st81{clip-path:url(#SVGID_24_)}.st82{fill:#736121}.st83,.st84,.st85{clip-path:url(#SVGID_26_);enable-background:new}.st84,.st85{clip-path:url(#SVGID_28_)}.st85{clip-path:url(#SVGID_30_)}.st86,.st87,.st88,.st89{clip-path:url(#SVGID_32_);enable-background:new}.st87,.st88,.st89{clip-path:url(#SVGID_34_)}.st88,.st89{clip-path:url(#SVGID_36_)}.st89{clip-path:url(#SVGID_38_)}.st90,.st91,.st92,.st93{clip-path:url(#SVGID_40_);enable-background:new}.st91,.st92,.st93{clip-path:url(#SVGID_42_)}.st92,.st93{clip-path:url(#SVGID_44_)}.st93{clip-path:url(#SVGID_46_)}.st94,.st95,.st96,.st97{clip-path:url(#SVGID_48_);enable-background:new}.st95,.st96,.st97{clip-path:url(#SVGID_50_)}.st96,.st97{clip-path:url(#SVGID_52_)}.st97{clip-path:url(#SVGID_54_)}.st100,.st101,.st98,.st99{clip-path:url(#SVGID_56_);enable-background:new}.st100,.st101,.st99{clip-path:url(#SVGID_58_)}.st100,.st101{clip-path:url(#SVGID_60_)}.st101{clip-path:url(#SVGID_62_)}.st102,.st103,.st104,.st105{clip-path:url(#SVGID_64_);enable-background:new}.st103,.st104,.st105{clip-path:url(#SVGID_66_)}.st104,.st105{clip-path:url(#SVGID_68_)}.st105{clip-path:url(#SVGID_70_)}.st106{fill:#b79b34}.st107,.st108{clip-path:url(#SVGID_72_);enable-background:new}.st108{clip-path:url(#SVGID_74_)}.st109{fill:#705f20}.st110,.st111{clip-path:url(#SVGID_76_);enable-background:new}.st111{clip-path:url(#SVGID_78_)}.st112,.st113,.st114,.st115{clip-path:url(#SVGID_80_);enable-background:new}.st113,.st114,.st115{clip-path:url(#SVGID_82_)}.st114,.st115{clip-path:url(#SVGID_84_)}.st115{clip-path:url(#SVGID_86_)}.st116{fill:#9f872d}.st117{clip-path:url(#SVGID_88_);enable-background:new}.st118,.st119,.st120,.st121{clip-path:url(#SVGID_90_);enable-background:new}.st119,.st120,.st121{clip-path:url(#SVGID_92_)}.st120,.st121{clip-path:url(#SVGID_94_)}.st121{clip-path:url(#SVGID_96_)}.st122,.st123,.st124,.st125{clip-path:url(#SVGID_98_);enable-background:new}.st123,.st124,.st125{clip-path:url(#SVGID_100_)}.st124,.st125{clip-path:url(#SVGID_102_)}.st125{clip-path:url(#SVGID_104_)}.st126{fill:#d4b33c}.st127,.st128,.st129{clip-path:url(#SVGID_106_);enable-background:new}.st128,.st129{clip-path:url(#SVGID_108_)}.st129{clip-path:url(#SVGID_110_)}.st130,.st131,.st132,.st133{clip-path:url(#SVGID_112_);enable-background:new}.st131,.st132,.st133{clip-path:url(#SVGID_114_)}.st132,.st133{clip-path:url(#SVGID_116_)}.st133{clip-path:url(#SVGID_118_)}.st134,.st135,.st136,.st137{clip-path:url(#SVGID_120_);enable-background:new}.st135,.st136,.st137{clip-path:url(#SVGID_122_)}.st136,.st137{clip-path:url(#SVGID_124_)}.st137{clip-path:url(#SVGID_126_)}.st138{fill:#c0a337}.st139,.st140{clip-path:url(#SVGID_128_);enable-background:new}.st140{clip-path:url(#SVGID_130_)}.st141{fill:#947d2a}.st142,.st143,.st144{clip-path:url(#SVGID_132_);enable-background:new}.st143,.st144{clip-path:url(#SVGID_134_)}.st144{clip-path:url(#SVGID_136_)}.st145{fill:#d4b43d}.st146,.st147,.st148{clip-path:url(#SVGID_138_);enable-background:new}.st147,.st148{clip-path:url(#SVGID_140_)}.st148{clip-path:url(#SVGID_142_)}.st149,.st150,.st151,.st152{clip-path:url(#SVGID_144_);enable-background:new}.st150,.st151,.st152{clip-path:url(#SVGID_146_)}.st151,.st152{clip-path:url(#SVGID_148_)}.st152{clip-path:url(#SVGID_150_)}
+    </style>
+    <g id="_x32_">
+        <path class="st0" d="M144.4 175l89.4 50 89.2-54.5L176 85 4.9 185.6l61.9 36.1z"/>
+        <path class="st1" d="M176 91.9l135.3 78.7-77.7 47.5-86.4-48.4-3-1.7-3 1.8-74.6 44.9-49.9-29.1L176 91.9zm0-6.9L4.9 185.6l61.8 36 77.6-46.7 89.4 50.1 89.3-54.5L176 85z"/>
+        <path class="st2" d="M144.4 175l89.4 50 89.2-54.5L176 85 4.9 185.6l61.9 36.1z"/>
+    </g>
+    <g id="_x31_">
+        <g class="st3">
+            <path class="st4" d="M294.7 169c.5.3.5.7 0 1l-56.2 34.5c-.5.3-1.2.3-1.7 0l-29.6-17.8c-.5-.3-1.2-.3-1.7 0l-13.8 8.7c-.5.3-1.2.3-1.7 0l-16.3-9.4c-.5-.3-.5-.7 0-1l.7-.4c.5-.3.4-.6-.1-.7l-4.7-.7c-.5-.1-1.4-.4-1.9-.6l-9-5.2c-.5-.3-.5-.8 0-1.1l12.7-8.5c.5-.3.4-.8 0-1.1l-28.5-16.4c-.5-.3-.5-.7 0-1l58.8-32.9c.5-.3 1.3-.3 1.7 0l91.3 52.6z"/>
+            <g class="st3">
+                <path class="st4" d="M202.4 115.9l93.1 53.6-57.8 35.5-31.4-18.9-15.5 9.8-18-10.4 2.4-1.4-6.7-1-10.8-6.2 14.4-9.6-30.3-17.4 60.6-34zm0-2c-.3 0-.7.1-1 .3L141 148.1c-.6.4-1 1-1 1.7s.4 1.4 1 1.7l27.5 15.8-11.7 7.8c-.6.4-.9 1-.9 1.7s.4 1.3 1 1.7l10.8 6.2c.2.1.5.2.7.2l2.6.4v.1c0 .7.4 1.4 1 1.7l18 10.4c.3.2.7.3 1 .3.4 0 .7-.1 1.1-.3l14.4-9.1 30.3 18.2c.3.2.7.3 1 .3.4 0 .7-.1 1-.3l57.9-35.5c.6-.4 1-1 1-1.7s-.4-1.4-1-1.7l-93.1-53.6c-.5-.1-.8-.2-1.2-.2z"/>
+            </g>
+            <g class="st5">
+                <path class="st4" d="M202.4 115.9l93.1 53.6-57.8 35.5-31.4-18.9-15.5 9.8-18-10.4 2.4-1.4-6.7-1-10.8-6.2 14.4-9.6-30.3-17.4 60.6-34zm0-4c-.7 0-1.3.2-2 .5L140 146.3c-1.3.7-2 2-2 3.5 0 1.4.8 2.8 2 3.5l24.7 14.2-9 6c-1.1.8-1.8 2.1-1.8 3.5s.8 2.6 2 3.3l10.8 6.2c.4.3.9.4 1.4.5l1.2.2c.3.7.9 1.3 1.6 1.8l18 10.4c.6.4 1.3.5 2 .5s1.5-.2 2.1-.6l13.4-8.4 29.2 17.6c.6.4 1.3.6 2.1.6.7 0 1.4-.2 2.1-.6l57.9-35.5c1.2-.7 1.9-2.1 1.9-3.5s-.8-2.7-2-3.4l-93.1-53.6c-.7-.4-1.4-.6-2.1-.6z"/>
+            </g>
+        </g>
+        <g class="st6">
+            <path class="st7" d="M298.6 43.7v125.8l-61 35.5V79.1z"/>
+            <path class="st8" d="M255.6 138.4v31.1l-11.7 6.8v-31.2z"/>
+            <path class="st8" d="M273.9 127.5v31.2l-11.6 6.8v-31.2z"/>
+            <path class="st8" d="M292.5 117.2v31.2l-11.6 6.8V124z"/>
+            <path class="st8" d="M255.6 174.6v12.3l-11.7 6.8v-12.3z"/>
+            <path class="st8" d="M273.9 163.7v12.4l-11.6 6.8v-12.4z"/>
+            <path class="st8" d="M292.5 153.4v12.4l-11.6 6.8v-12.4z"/>
+            <path class="st9" d="M237.6 79.1V205L162 161.3V35.5z"/>
+            <path class="st10" d="M164 35.5l59.1-34.3 73.5 42.5-59 34.3z"/>
+            <path class="st11" d="M223.1 2.3l71.5 41.3-57.1 33.1L166 35.5l57.1-33.2zm0-2.3L162 35.5l75.6 43.7 61-35.5L223.1 0z"/>
+            <path class="st12" d="M219.1 138v28.4l11.7 6.8v-28.4z"/>
+            <path class="st12" d="M201.7 128.1v28.4l11.7 6.7v-28.3z"/>
+            <path class="st12" d="M184.8 117.8v28.3l11.7 6.8v-28.3z"/>
+            <path class="st12" d="M167.9 108.2v28.4l11.7 6.7V115z"/>
+            <path class="st12" d="M219.1 106v28.4l11.7 6.8v-28.4z"/>
+            <path class="st12" d="M201.7 96.1v28.4l11.7 6.7v-28.3z"/>
+            <path class="st12" d="M184.8 85.8v28.3l11.7 6.8V92.6z"/>
+            <path class="st12" d="M167.9 76.2v28.4l11.7 6.7V83z"/>
+            <path class="st12" d="M219.1 174.8v12.3l11.7 6.8v-12.3z"/>
+            <g>
+                <path class="st12" d="M167.9 144.9v12.4l11.7 6.8v-12.4z"/>
+            </g>
+        </g>
+        <g class="st6">
+            <path class="st13" d="M211.9 168.9V190l-15.4 9.1V178z"/>
+            <path class="st14" d="M211.9 168.9l-15.4 9.1-28-16 15.4-9.1z"/>
+        </g>
+        <g class="st6">
+            <path class="st7" d="M245.8 19v6.2l-16.5 9.6v-6.3z"/>
+            <path class="st9" d="M229.3 28.5v6.3L208.8 23v-6.3z"/>
+            <path class="st15" d="M245.8 19l-16.5 9.5-20.5-11.8 16.5-9.6z"/>
+        </g>
+        <g class="st6">
+            <path class="st7" d="M218.3 33.3v6.3l-16.5 9.6v-6.3z"/>
+            <path class="st9" d="M201.8 42.9v6.3l-20.5-11.8v-6.3z"/>
+            <path class="st15" d="M218.3 33.3l-16.5 9.6-20.5-11.8 16.5-9.6z"/>
+        </g>
+        <g class="st6">
+            <path class="st7" d="M279.2 37.8V44l-16.5 9.6v-6.3z"/>
+            <path class="st9" d="M262.7 47.3v6.3l-20.4-11.8v-6.3z"/>
+            <path class="st15" d="M279.2 37.8l-16.5 9.5-20.4-11.8 16.5-9.6z"/>
+        </g>
+        <g class="st6">
+            <path class="st7" d="M251.7 52.1v6.3L235.2 68v-6.3z"/>
+            <path class="st9" d="M235.2 61.7V68l-20.4-11.8v-6.3z"/>
+            <path class="st15" d="M251.7 52.1l-16.5 9.6-20.4-11.8 16.5-9.6z"/>
+        </g>
+        <path class="st16" d="M168.5 162v21.1l4.3 2.4 2.5-1.4 15.5 9v2.8l5.7 3.2V178z"/>
+        <g class="st6">
+            <path class="st17" d="M190.8 179.5v13.6l-15.5-9v-13.6z"/>
+            <path class="st13" d="M175.3 170.5v13.6l-2.5 1.4v-16.3z"/>
+            <g class="st18">
+                <path class="st17" d="M196.5 179.2v8.6l-28-16.7v-8.5z"/>
+            </g>
+        </g>
+        <path class="st13" d="M168.5 162l-3.2 4.6 27.9 16.4 3.3-5z"/>
+        <path class="st13" d="M196.5 178l-3.3 5 7.5-5z"/>
+        <path class="st19" d="M280.9 154.4c3.8-8.1 7.7-16.2 11.7-24.2v-11c-4 7.8-7.9 15.6-11.7 23.5v11.7z"/>
+        <path class="st19" d="M262.3 143.1v15.4c3.4-10.2 7-20.4 10.8-30.4l-6.8 4c-1.4 3.6-2.7 7.3-4 11z"/>
+        <path class="st19" d="M255.6 145.2v-6.8l-3.7 2.2c-2.8 8.5-5.4 17-8 25.5v10.2l2.6-1.5c3-9.9 5.9-19.8 9.1-29.6z"/>
+        <path class="st8" d="M255.6 97.4v31.1l-11.7 6.8v-31.2z"/>
+        <path class="st8" d="M273.9 86.5v31.2l-11.6 6.8V93.3z"/>
+        <path class="st8" d="M292.5 76.2v31.2l-11.6 6.8V83z"/>
+        <path class="st19" d="M280.9 113.4c3.8-8.1 7.7-16.2 11.7-24.2v-11c-4 7.8-7.9 15.6-11.7 23.5v11.7z"/>
+        <path class="st19" d="M262.3 102.1v15.4c3.4-10.2 7-20.4 10.8-30.4l-6.8 4c-1.4 3.6-2.7 7.3-4 11z"/>
+        <path class="st19" d="M255.6 104.2v-6.8l-3.7 2.2c-2.8 8.5-5.4 17-8 25.5v10.2l2.6-1.5c3-9.9 5.9-19.8 9.1-29.6z"/>
+        <path class="st19" d="M292.5 79.2c-3.6 7-7.5 14.8-11.7 23.5"/>
+        <path class="st19" d="M262.3 102.1v15.4"/>
+        <path class="st19" d="M246.6 134.8c3.2-10.8 6.1-20.7 9-29.6"/>
+        <g id="Слой_2__R">
+            <g class="st6" id="Слой_3">
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_1_" class="st6" d="M175.8 35.3l-1.4.8c1.1-.7 2.7-.6 4.5.4l1.4-.8c-1.8-.9-3.4-1-4.5-.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_2_">
+                        <use xlink:href="#SVGID_1_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st20">
+                        <path class="st21" d="M178.8 36.6l1.4-.8c-.3-.2-.6-.3-.9-.4l-1.4.8c.3.1.6.2.9.4"/>
+                        <path class="st22" d="M177.9 36.1l1.4-.8c-.3-.1-.5-.2-.7-.3l-1.4.8c.2.2.5.2.7.3"/>
+                        <path class="st23" d="M177.2 35.9l1.4-.8c-.2-.1-.4-.1-.6-.1l-1.4.8c.2 0 .4 0 .6.1"/>
+                        <path class="st24" d="M176.6 35.8l1.4-.8h-.5l-1.4.8c.2-.1.4 0 .5 0"/>
+                        <path class="st25" d="M176.2 35.7l1.4-.8h-.4l-1.4.8h.4"/>
+                        <path class="st26" d="M175.8 35.7l1.4-.8h-.4l-1.4.8c.1.1.2 0 .4 0"/>
+                        <path class="st27" d="M175.4 35.8l1.4-.8c-.1 0-.2 0-.4.1l-1.4.8c.1-.1.3-.1.4-.1"/>
+                        <path class="st28" d="M175 35.9l1.4-.8c-.1 0-.2.1-.3.1l-1.4.8c.1-.1.2-.1.3-.1"/>
+                        <path class="st29" d="M174.7 36l1.4-.8c-.1 0-.2.1-.3.2l-1.4.8c.1-.1.2-.2.3-.2"/>
+                        <path class="st30" d="M174.4 36.1l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_3_" class="st6" d="M225.4 102.2l1.4-.8c1.1-.7 1.8-2 1.8-4l-1.4.8c0 1.9-.7 3.3-1.8 4z"/>
+                    </defs>
+                    <clipPath id="SVGID_4_">
+                        <use xlink:href="#SVGID_3_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st31">
+                        <path class="st32" d="M225.4 102.2l1.4-.8c1.1-.7 1.8-2 1.8-4l-1.4.8c0 1.9-.7 3.3-1.8 4"/>
+                    </g>
+                </g>
+                <path class="st33" d="M227.2 98.2l1.4-.8.1-26.4-1.4.8z"/>
+                <path class="st34" d="M221.1 61l1.4-.8-42.3-24.4-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_5_" class="st6" d="M227.3 71.8l1.4-.8c0-4-2.8-8.8-6.2-10.8l-1.4.8c3.4 2 6.2 6.8 6.2 10.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_6_">
+                        <use xlink:href="#SVGID_5_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st35">
+                        <path class="st32" d="M227.3 71.8l1.4-.8c0-.4 0-.8-.1-1.2l-1.4.8c.1.4.1.8.1 1.2"/>
+                        <path class="st36" d="M227.2 70.6l1.4-.8c0-.3-.1-.6-.1-.9l-1.4.8c0 .3.1.6.1.9"/>
+                        <path class="st37" d="M227.1 69.7l1.4-.8c-.1-.2-.1-.5-.2-.7l-1.4.8c.1.2.1.4.2.7"/>
+                        <path class="st38" d="M226.9 69l1.4-.8c-.1-.2-.1-.4-.2-.6l-1.4.8c.1.1.1.4.2.6"/>
+                        <path class="st39" d="M226.7 68.3l1.4-.8c-.1-.2-.1-.4-.2-.6l-1.4.8c.1.2.1.4.2.6"/>
+                        <path class="st30" d="M226.5 67.7l1.4-.8c-.1-.2-.1-.4-.2-.6l-1.4.8c0 .3.1.5.2.6"/>
+                        <path class="st29" d="M226.3 67.2l1.4-.8c-.1-.2-.2-.4-.2-.5l-1.4.8c0 .1.1.3.2.5"/>
+                        <path class="st28" d="M226 66.6l1.4-.8c-.1-.2-.2-.4-.3-.5l-1.4.8c.1.2.2.4.3.5"/>
+                        <path class="st27" d="M225.7 66.1l1.4-.8c-.1-.2-.2-.4-.3-.5l-1.4.8c.1.2.2.3.3.5"/>
+                        <path class="st26" d="M225.4 65.6l1.4-.8c-.1-.2-.2-.4-.3-.5l-1.4.8c.1.1.2.3.3.5"/>
+                        <path class="st25" d="M225.1 65l1.4-.8c-.1-.2-.2-.4-.4-.5l-1.4.8c.2.2.3.4.4.5"/>
+                        <path class="st24" d="M224.8 64.5l1.4-.8c-.1-.2-.3-.4-.4-.6l-1.4.8c.1.2.2.4.4.6"/>
+                        <path class="st23" d="M224.3 63.9l1.4-.8c-.2-.2-.3-.4-.5-.6l-1.4.8c.2.2.4.4.5.6"/>
+                        <path class="st22" d="M223.8 63.3l1.4-.8c-.2-.3-.4-.5-.7-.7l-1.4.8c.3.2.5.5.7.7"/>
+                        <path class="st21" d="M223.1 62.6l1.4-.8c-.7-.6-1.4-1.2-2.1-1.6l-1.4.8c.8.4 1.5 1 2.1 1.6"/>
+                    </g>
+                </g>
+                <path class="st40" d="M178.8 36.6c-3.5-2-6.3-.4-6.3 3.6l-.1 26.4c0 4 2.8 8.8 6.2 10.8l42.2 24.4c3.5 2 6.3.4 6.3-3.6l.1-26.4c0-4-2.8-8.8-6.2-10.8l-42.2-24.4z"/>
+            </g>
+            <g class="st6">
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_7_" class="st6" d="M209.1 87.3l1.4-.8c0 .3 0 .6.1 1 .1.3.2.6.4.9.2.3.4.5.6.8.2.2.5.4.8.6l-1.4.8c-.3-.2-.5-.4-.8-.6-.2-.2-.4-.5-.6-.8-.2-.3-.3-.6-.4-.9-.1-.3-.1-.6-.1-1z"/>
+                    </defs>
+                    <clipPath id="SVGID_8_">
+                        <use xlink:href="#SVGID_7_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st41">
+                        <path class="st42" d="M209.1 87.3l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st43" d="M209.1 87.4l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st44" d="M209.1 87.6l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st45" d="M209.1 87.7l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st46" d="M209.1 87.8l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st47" d="M209.1 87.9l1.4-.8v.1l-1.4.7"/>
+                        <path class="st48" d="M209.1 88l1.4-.8v.1l-1.4.7"/>
+                        <path class="st49" d="M209.2 88.1l1.4-.8v.1l-1.4.7"/>
+                        <path class="st50" d="M209.2 88.2l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st51" d="M209.2 88.3l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st52" d="M209.2 88.4l1.4-.8v.1l-1.4.7c.1 0 0 0 0 0"/>
+                        <path class="st53" d="M209.3 88.5l1.4-.8v.1l-1.4.7"/>
+                        <path class="st54" d="M209.3 88.6l1.4-.8v.1l-1.4.7"/>
+                        <path class="st55" d="M209.3 88.6l1.4-.8v.1l-1.4.7c.1.1 0 .1 0 0"/>
+                        <path class="st56" d="M209.4 88.7l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st57" d="M209.4 88.8l1.4-.8v.1l-1.4.7c0 .1 0 0 0 0"/>
+                        <path class="st58" d="M209.4 88.9l1.4-.8v.1l-1.4.7c.1 0 0 0 0 0"/>
+                        <path class="st59" d="M209.5 89l1.4-.8v.1l-1.4.7"/>
+                        <path class="st60" d="M209.5 89.1l1.4-.8s0 .1.1.1l-1.4.8c0-.1-.1-.1-.1-.1"/>
+                        <path class="st61" d="M209.6 89.2l1.4-.8c0 .1.1.1.1.2l-1.4.8c0-.1-.1-.1-.1-.2"/>
+                        <path class="st60" d="M209.7 89.4l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st59" d="M209.8 89.5l1.4-.8s0 .1.1.1l-1.5.7c.1.1 0 .1 0 0"/>
+                        <path class="st58" d="M209.9 89.6l1.4-.8s0 .1.1.1l-1.5.7c0 .1 0 .1 0 0"/>
+                        <path class="st57" d="M210 89.7l1.4-.8s0 .1.1.1l-1.5.7c0 .1 0 0 0 0"/>
+                        <path class="st56" d="M210 89.8l1.4-.8.1.1-1.5.7c.1.1.1 0 0 0"/>
+                        <path class="st55" d="M210.1 89.9l1.4-.8.1.1-1.5.7c.1.1.1.1 0 0"/>
+                        <path class="st54" d="M210.2 90l1.4-.8.1.1-1.5.7"/>
+                        <path class="st53" d="M210.3 90l1.4-.8.1.1-1.5.7c0 .1 0 .1 0 0"/>
+                        <path class="st52" d="M210.3 90.1l1.4-.8.1.1-1.5.7c.1.1.1 0 0 0"/>
+                        <path class="st51" d="M210.4 90.2l1.4-.8s.1 0 .1.1l-1.5.7c.1 0 .1 0 0 0"/>
+                        <path class="st50" d="M210.5 90.3l1.4-.8s.1 0 .1.1l-1.5.7c.1 0 0 0 0 0"/>
+                        <path class="st49" d="M210.6 90.3l1.4-.8s.1 0 .1.1l-1.5.7c.1.1 0 .1 0 0"/>
+                        <path class="st48" d="M210.7 90.4l1.4-.8s.1 0 .1.1l-1.5.7c.1 0 0 0 0 0"/>
+                        <path class="st47" d="M210.8 90.5l1.4-.8s.1 0 .1.1l-1.4.8c0-.1-.1-.1-.1-.1"/>
+                        <path class="st46" d="M210.9 90.5l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <path class="st62" d="M209.1 85.6l1.4-.8v1.7l-1.4.8z"/>
+                <path class="st63" d="M210.9 90.5l1.4-.8 2 1.1-1.5.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_9_" class="st6" d="M209.6 84.4l1.4-.8c-.2.1-.3.2-.4.5-.1.2-.1.5-.1.8l-1.4.8c0-.3 0-.6.1-.8.1-.3.2-.5.4-.5z"/>
+                    </defs>
+                    <clipPath id="SVGID_10_">
+                        <use xlink:href="#SVGID_9_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st64">
+                        <path class="st65" d="M209.6 84.4l1.4-.8-.3.3-1.4.8c.1-.2.2-.3.3-.3"/>
+                        <path class="st66" d="M209.3 84.6l1.4-.8s0 .1-.1.1l-1.4.8c.1 0 .1 0 .1-.1"/>
+                        <path class="st67" d="M209.2 84.8l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st68" d="M209.2 84.9l1.4-.8v.1l-1.4.7"/>
+                        <path class="st69" d="M209.2 85l1.4-.8v.1l-1.4.7c-.1 0 0 0 0 0"/>
+                        <path class="st70" d="M209.1 85.1l1.4-.8v.1l-1.4.7"/>
+                        <path class="st71" d="M209.1 85.2l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st72" d="M209.1 85.3l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st73" d="M209.1 85.4l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st74" d="M209.1 85.5l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st42" d="M209.1 85.6l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_11_" class="st6" d="M216.6 92.8l-1.4.8 1.4-.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_12_">
+                        <use xlink:href="#SVGID_11_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st75">
+                        <path class="st65" d="M215.2 93.6l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_13_" class="st6" d="M212.8 91.6l1.4-.8c.3.2.5.3.8.3.2 0 .4 0 .6-.1l-1.4.8c-.2.1-.4.1-.6.1-.2 0-.5-.1-.8-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_14_">
+                        <use xlink:href="#SVGID_13_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st76">
+                        <path class="st46" d="M212.8 91.6l1.4-.8h.1l-1.5.8c.1.1.1.1 0 0"/>
+                        <path class="st45" d="M212.9 91.7l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                        <path class="st44" d="M213 91.7l1.4-.8h.1l-1.5.8c.1.1 0 .1 0 0"/>
+                        <path class="st43" d="M213.1 91.8l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st42" d="M213.2 91.8l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st74" d="M213.3 91.8l1.4-.8h.1l-1.5.8c0 .1 0 .1 0 0"/>
+                        <path class="st73" d="M213.4 91.9l1.4-.8h.1l-1.5.8"/>
+                        <path class="st72" d="M213.4 91.9l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                        <path class="st71" d="M213.5 91.9l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st70" d="M213.6 91.9l1.4-.8h.1l-1.5.8"/>
+                        <path class="st69" d="M213.7 91.9l1.4-.8h.1l-1.5.8"/>
+                        <path class="st68" d="M213.8 91.9l1.4-.8h.1l-1.5.8"/>
+                        <path class="st67" d="M213.9 91.9l1.4-.8h.1l-1.5.8"/>
+                        <path class="st66" d="M214 91.9l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st65" d="M214.1 91.9l1.4-.8s.1 0 .1-.1l-1.4.8c0 .1-.1.1-.1.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_15_" class="st6" d="M215.6 91l-1.4.8 1.4-.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_16_">
+                        <use xlink:href="#SVGID_15_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st77">
+                        <path class="st65" d="M214.2 91.8l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_17_" class="st6" d="M208.6 82.6l1.4-.8c.3-.2.6-.2 1-.2s.8.2 1.3.5l-1.4.8c-.5-.3-.9-.4-1.3-.5-.4 0-.7.1-1 .2z"/>
+                    </defs>
+                    <clipPath id="SVGID_18_">
+                        <use xlink:href="#SVGID_17_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st78">
+                        <path class="st65" d="M208.6 82.6l1.4-.8c.1 0 .2-.1.2-.1l-1.4.8c-.1 0-.1.1-.2.1"/>
+                        <path class="st66" d="M208.8 82.5l1.4-.8c.1 0 .1 0 .2-.1l-1.4.8c0 .1-.1.1-.2.1"/>
+                        <path class="st67" d="M209 82.5l1.4-.8h.2l-1.4.8c0-.1-.1-.1-.2 0"/>
+                        <path class="st68" d="M209.2 82.4l1.4-.8h.2l-1.4.8h-.2"/>
+                        <path class="st69" d="M209.4 82.4l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st70" d="M209.5 82.4l1.4-.8h.2l-1.4.8h-.1-.1"/>
+                        <path class="st71" d="M209.7 82.4l1.4-.8h.1l-1.4.8c0 .1 0 .1-.1 0"/>
+                        <path class="st72" d="M209.8 82.5l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st73" d="M210 82.5l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st74" d="M210.1 82.5l1.4-.8h.1l-1.4.8c0 .1 0 .1-.1 0"/>
+                        <path class="st42" d="M210.3 82.6l1.4-.8s.1 0 .1.1l-1.4.8-.1-.1"/>
+                        <path class="st43" d="M210.4 82.6l1.4-.8s.1 0 .1.1l-1.4.8s-.1 0-.1-.1"/>
+                        <path class="st44" d="M210.5 82.7l1.4-.8s.1 0 .1.1l-1.4.8c0-.1 0-.1-.1-.1"/>
+                        <path class="st45" d="M210.7 82.8l1.4-.8c.1 0 .1.1.2.1l-1.4.8c-.1-.1-.2-.1-.2-.1"/>
+                        <path class="st46" d="M210.8 82.8l1.4-.8s.1 0 .1.1l-1.4.8-.1-.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_19_" class="st6" d="M216.6 92.7l-1.4.8c.3-.2.5-.4.7-.8.2-.4.2-.8.2-1.4l1.4-.8c0 .6-.1 1-.2 1.4-.2.4-.4.7-.7.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_20_">
+                        <use xlink:href="#SVGID_19_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st79">
+                        <path class="st42" d="M216.1 91.4l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M216.1 91.4l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st73" d="M216.1 91.6l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st72" d="M216.1 91.8l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st71" d="M216.1 92l1.4-.8v.2l-1.4.8V92"/>
+                        <path class="st70" d="M216.1 92.1l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st69" d="M216 92.3l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st68" d="M216 92.5l1.4-.8c0 .1 0 .1-.1.2l-1.4.8c.1-.1.1-.2.1-.2"/>
+                        <path class="st67" d="M215.9 92.6l1.4-.8s0 .1-.1.1l-1.4.8c.1 0 .1 0 .1-.1"/>
+                        <path class="st66" d="M215.9 92.8l1.4-.8c0 .1-.1.2-.1.2l-1.4.8s0-.1.1-.2"/>
+                        <path class="st65" d="M215.7 93l1.4-.8c-.1.2-.3.4-.5.5l-1.4.8c.2-.1.4-.2.5-.5"/>
+                    </g>
+                </g>
+                <path class="st62" d="M216.1 89.7l1.4-.8v1.7l-1.4.8z"/>
+                <path class="st63" d="M210.9 82.9l1.5-.8 1.9 1.1-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_21_" class="st6" d="M215.9 88l1.4-.8c.2.6.2 1.1.2 1.7l-1.4.8c0-.6 0-1.1-.2-1.7z"/>
+                    </defs>
+                    <clipPath id="SVGID_22_">
+                        <use xlink:href="#SVGID_21_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st80">
+                        <path class="st51" d="M215.9 88l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st50" d="M215.9 88.1l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st49" d="M216 88.3l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st48" d="M216 88.4l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st47" d="M216 88.6l1.4-.8v.2l-1.4.8c.1-.1 0-.1 0-.2"/>
+                        <path class="st46" d="M216.1 88.8l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st45" d="M216.1 89l1.4-.8v.2l-1.4.8V89"/>
+                        <path class="st44" d="M216.1 89.1l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st43" d="M216.1 89.3l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st42" d="M216.1 89.5l1.4-.8v.2l-1.4.8v-.2"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_23_" class="st6" d="M212.9 84l1.4-.8c.5.3.9.6 1.3 1s.7.9 1 1.4c.3.5.5 1 .7 1.6l-1.4.8c-.2-.6-.4-1.1-.7-1.6-.3-.5-.6-1-1-1.4-.4-.4-.9-.7-1.3-1z"/>
+                    </defs>
+                    <clipPath id="SVGID_24_">
+                        <use xlink:href="#SVGID_23_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st81">
+                        <path class="st46" d="M212.9 84l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M212.9 84l1.4-.8c.1 0 .1.1.2.1l-1.4.8c-.1 0-.1 0-.2-.1"/>
+                        <path class="st48" d="M213.1 84.1l1.4-.8c.1 0 .1.1.2.1l-1.4.8c-.1 0-.2 0-.2-.1"/>
+                        <path class="st49" d="M213.2 84.2l1.4-.8c.1 0 .1.1.2.1l-1.4.8c-.1 0-.1 0-.2-.1"/>
+                        <path class="st50" d="M213.4 84.4l1.4-.8c.1 0 .1.1.2.1l-1.4.8c-.1-.1-.2-.1-.2-.1"/>
+                        <path class="st51" d="M213.5 84.5l1.4-.8c.1 0 .1.1.1.1l-1.4.8c0-.1 0-.1-.1-.1"/>
+                        <path class="st52" d="M213.7 84.6l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st53" d="M213.8 84.7l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st54" d="M214 84.8l1.4-.8.1.1-1.4.8s-.1 0-.1-.1"/>
+                        <path class="st55" d="M214.1 85l1.4-.8.1.1.1.1-1.4.8-.2-.2c.1 0 0 0 0 0"/>
+                        <path class="st56" d="M214.3 85.2l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st57" d="M214.4 85.3l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st58" d="M214.5 85.4l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st59" d="M214.6 85.6l1.4-.8c0 .1.1.1.1.2l-1.4.8c0-.1 0-.2-.1-.2"/>
+                        <path class="st60" d="M214.8 85.7l1.4-.8c.1.1.1.2.2.2l-1.4.8c-.1 0-.2-.1-.2-.2"/>
+                        <path class="st61" d="M214.9 86l1.4-.8c.1.1.2.3.3.4l-1.4.8c-.1-.1-.2-.3-.3-.4"/>
+                        <path class="st60" d="M215.2 86.4l1.4-.8c0 .1.1.2.1.2l-1.4.8s0-.1-.1-.2"/>
+                        <path class="st59" d="M215.3 86.7l1.4-.8c0 .1.1.1.1.2l-1.4.8c0-.1 0-.2-.1-.2"/>
+                        <path class="st58" d="M215.4 86.8l1.4-.8c0 .1.1.1.1.2l-1.4.8s0-.1-.1-.2"/>
+                        <path class="st57" d="M215.5 87l1.4-.8s0 .1.1.1l-1.4.8s-.1 0-.1-.1"/>
+                        <path class="st56" d="M215.6 87.2l1.4-.8s0 .1.1.1l-1.4.8c-.1 0-.1-.1-.1-.1"/>
+                        <path class="st55" d="M215.6 87.3l1.4-.8c0 .1 0 .1.1.2l-1.4.8c0-.1 0-.1-.1-.2"/>
+                        <path class="st54" d="M215.7 87.5l1.4-.8c0 .1 0 .1.1.2l-1.4.8c-.1-.1-.1-.2-.1-.2"/>
+                        <path class="st53" d="M215.8 87.6l1.4-.8c0 .1 0 .1.1.2l-1.4.8c-.1-.1-.1-.1-.1-.2"/>
+                        <path class="st52" d="M215.8 87.8l1.4-.8c0 .1 0 .1.1.2l-1.4.8c0-.1-.1-.2-.1-.2"/>
+                        <path class="st51" d="M215.9 88l1.4-.8v.1l-1.4.7"/>
+                    </g>
+                </g>
+                <path class="st82" d="M215.9 88c.2.6.2 1.1.2 1.7v1.7c0 .6-.1 1-.2 1.4-.2.4-.4.6-.7.8-.3.2-.6.2-1 .2s-.8-.2-1.3-.5l-1.9-1.1c-.5-.3-.9-.6-1.3-1s-.7-.9-1-1.4c-.3-.5-.5-1-.7-1.6-.2-.6-.2-1.1-.2-1.7v-1.7c0-.5.1-1 .3-1.4.2-.4.4-.6.7-.8.3-.2.6-.2 1-.2s.8.2 1.3.5L213 84c.5.3.9.6 1.3 1s.7.9 1 1.4c.2.5.4 1.1.6 1.6zm-1.2 2.6v-1.7c0-.3 0-.6-.1-1-.1-.3-.2-.6-.4-.9-.2-.3-.4-.5-.6-.8-.2-.2-.5-.4-.7-.6l-1.9-1.1c-.3-.2-.5-.3-.8-.3-.2 0-.4 0-.6.1-.2.1-.3.2-.4.5-.1.2-.1.5-.1.8v1.7c0 .3 0 .6.1 1 .1.3.2.6.4.9.2.3.4.5.6.8.2.2.5.4.8.6l1.9 1.1c.3.2.5.3.8.3.2 0 .4 0 .6-.1.2-.1.3-.2.4-.5v-.8"/>
+            </g>
+            <g class="st6">
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_25_" class="st6" d="M198.9 83.3l1.4-.8c.1.2.2.3.4.4l-1.4.8c-.2-.1-.3-.3-.4-.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_26_">
+                        <use xlink:href="#SVGID_25_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st83">
+                        <path class="st61" d="M198.9 83.3l1.4-.8v.1l-1.4.7"/>
+                        <path class="st60" d="M198.9 83.3l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st59" d="M198.9 83.4l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M198.9 83.4l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                        <path class="st57" d="M199 83.4l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M199 83.4l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st55" d="M199 83.5l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M199 83.5l1.4-.8-1.4.8"/>
+                        <path class="st53" d="M199.1 83.5l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M199.1 83.5l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st51" d="M199.1 83.6l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M199.1 83.6l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st49" d="M199.2 83.6l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M199.2 83.6l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st47" d="M199.2 83.7l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                        <path class="st46" d="M199.3 83.7l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_27_" class="st6" d="M198.7 82.7l1.4-.8c0 .2.1.4.1.6l-1.4.8c0-.2-.1-.4-.1-.6z"/>
+                    </defs>
+                    <clipPath id="SVGID_28_">
+                        <use xlink:href="#SVGID_27_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st84">
+                        <path class="st42" d="M198.7 82.7l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M198.7 82.7l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st44" d="M198.7 82.8l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M198.7 82.8l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st46" d="M198.7 82.9l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M198.7 82.9l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M198.7 82.9l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st49" d="M198.7 83l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M198.8 83l1.4-.8-1.4.8"/>
+                        <path class="st51" d="M198.8 83l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M198.8 83.1l1.4-.8-1.4.8"/>
+                        <path class="st53" d="M198.8 83.1l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M198.8 83.1l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M198.8 83.1l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st56" d="M198.8 83.2l1.4-.8-1.4.8"/>
+                        <path class="st57" d="M198.8 83.2l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M198.8 83.2l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M198.8 83.2l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st60" d="M198.9 83.3l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <path class="st62" d="M198.7 78.3l1.4-.8v4.4l-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_29_" class="st6" d="M198.9 77.9l1.4-.8c-.1.1-.1.2-.1.4l-1.4.8c-.1-.2 0-.4.1-.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_30_">
+                        <use xlink:href="#SVGID_29_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st85">
+                        <path class="st65" d="M198.9 77.9l1.4-.8s-.1 0-.1.1l-1.3.7c-.1 0-.1 0 0 0"/>
+                        <path class="st66" d="M198.8 77.9l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st67" d="M198.8 78l1.4-.8-1.4.8"/>
+                        <path class="st68" d="M198.8 78l1.4-.8-1.4.8"/>
+                        <path class="st69" d="M198.8 78l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st70" d="M198.7 78.1l1.4-.8-1.4.8"/>
+                        <path class="st71" d="M198.7 78.1l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M198.7 78.2l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M198.7 78.2l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M198.7 78.2l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st42" d="M198.7 78.3l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_31_" class="st6" d="M197.9 76.1l1.4-.8c.1 0 .2-.1.3-.1l-1.4.8c-.2.1-.2.1-.3.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_32_">
+                        <use xlink:href="#SVGID_31_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st86">
+                        <path class="st65" d="M197.9 76.1l1.4-.8s.1-.1.2-.1l-1.4.8c-.1.1-.2.1-.2.1"/>
+                        <path class="st66" d="M198 76.1l1.4-.8h.1l-1.4.8c0-.1 0 0-.1 0"/>
+                    </g>
+                </g>
+                <path class="st63" d="M199.3 83.7l1.4-.8 5.1 2.9-1.4.9z"/>
+                <path class="st62" d="M204.4 86.7l1.4-.9v1.7l-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_33_" class="st6" d="M198.1 76l1.4-.8h.5l-1.4.8h-.5z"/>
+                    </defs>
+                    <clipPath id="SVGID_34_">
+                        <use xlink:href="#SVGID_33_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st87">
+                        <path class="st66" d="M198.1 76l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                        <path class="st67" d="M198.2 76l1.4-.8h.1l-1.5.8"/>
+                        <path class="st68" d="M198.3 76l1.4-.8h.1l-1.5.8"/>
+                        <path class="st69" d="M198.4 76l1.4-.8h.1l-1.5.8"/>
+                        <path class="st70" d="M198.4 76l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                        <path class="st71" d="M198.5 76l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st72" d="M198.6 76l1.4-.8h.1l-1.5.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_35_" class="st6" d="M198.7 76l1.4-.8c.2 0 .4.1.7.3l-1.4.8c-.3-.1-.6-.2-.7-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_36_">
+                        <use xlink:href="#SVGID_35_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st88">
+                        <path class="st71" d="M198.7 76l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M198.7 76l1.4-.8h.1l-1.5.8c0 .1 0 0 0 0"/>
+                        <path class="st73" d="M198.7 76.1l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st74" d="M198.8 76.1l1.4-.8h.1l-1.5.8"/>
+                        <path class="st42" d="M198.9 76.1l1.4-.8h.1l-1.5.8"/>
+                        <path class="st43" d="M198.9 76.1l1.4-.8h.1l-1.5.8c.1.1.1 0 0 0"/>
+                        <path class="st44" d="M199 76.2l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                        <path class="st45" d="M199.1 76.2l1.4-.8s.1 0 .1.1l-1.4.8c0-.1 0-.1-.1-.1"/>
+                        <path class="st46" d="M199.2 76.3l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                    </g>
+                </g>
+                <path class="st63" d="M199.3 76.3l1.4-.8 5.2 3-1.5.8z"/>
+                <path class="st82" d="M198.7 76c.2 0 .4.1.7.3l5.1 3v1.6l-5.1-3c-.2-.1-.3-.1-.4-.1-.1.1-.1.2-.1.4v4.4c0 .2.1.4.1.6.1.2.2.3.4.4l5.1 3v1.6l-5.1-3c-.1-.1-.3-.2-.4-.3l-.4-.4c-.1-.1-.3-.3-.4-.5-.1-.2-.3-.4-.4-.6-.1-.2-.2-.5-.2-.7-.1-.3-.1-.5-.1-.8v-4.4-.5c0-.2.1-.3.1-.4l.3-.3c.1-.1.2-.2.4-.2 0-.1.2-.1.4-.1z"/>
+                <path class="st62" d="M204.4 79.3l1.5-.8-.1 1.6-1.4.8z"/>
+            </g>
+            <g class="st6">
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_37_" class="st6" d="M187.8 73.1l1.4-.8c.1.3.4.5.6.6l-1.4.8c-.2-.1-.5-.3-.6-.6z"/>
+                    </defs>
+                    <clipPath id="SVGID_38_">
+                        <use xlink:href="#SVGID_37_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st89">
+                        <path class="st60" d="M187.8 73.1l1.4-.8-1.4.8"/>
+                        <path class="st61" d="M187.8 73.1l1.4-.8s0 .1.1.1l-1.5.7c.1.1 0 .1 0 0"/>
+                        <path class="st60" d="M187.9 73.2l1.4-.8v.1l-1.4.7c0 .1 0 0 0 0"/>
+                        <path class="st59" d="M187.9 73.3l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M187.9 73.3l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                        <path class="st57" d="M188 73.3l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st56" d="M188 73.4l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M188 73.4l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M188.1 73.4l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st53" d="M188.1 73.5l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M188.1 73.5l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st51" d="M188.2 73.5l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st50" d="M188.2 73.6l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M188.3 73.6l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M188.3 73.6l1.4-.8h.1l-1.5.8c0 .1 0 .1 0 0"/>
+                        <path class="st47" d="M188.4 73.7l1.4-.8h.1l-1.5.8"/>
+                        <path class="st46" d="M188.4 73.7l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <path class="st63" d="M186.2 76.1l1.4-.8 5.5 3.2-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_39_" class="st6" d="M193.7 78.6l-1.4.8c-.2.1-.4.1-.6-.1l1.4-.8c.3.1.5.2.6.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_40_">
+                        <use xlink:href="#SVGID_39_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st90">
+                        <path class="st46" d="M191.7 79.3l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M191.7 79.3l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st44" d="M191.8 79.4l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M191.8 79.4l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st42" d="M191.9 79.4l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M191.9 79.4l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M191.9 79.4l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                        <path class="st72" d="M192 79.4l1.4-.8-1.4.8"/>
+                        <path class="st71" d="M192 79.4l1.4-.8-1.4.8"/>
+                        <path class="st70" d="M192.1 79.4l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st69" d="M192.1 79.5l1.4-.8-1.4.8"/>
+                        <path class="st68" d="M192.1 79.5l1.4-.8-1.4.8"/>
+                        <path class="st67" d="M192.2 79.5l1.4-.8-1.4.8c0-.1 0-.1 0 0"/>
+                        <path class="st66" d="M192.2 79.4l1.4-.8-1.4.8"/>
+                        <path class="st65" d="M192.2 79.4l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_41_" class="st6" d="M187.8 71.6l1.4-.8c-.2.1-.2.3-.2.6s.1.6.2.9l-1.4.8c-.2-.3-.2-.6-.2-.9 0-.3 0-.5.2-.6z"/>
+                    </defs>
+                    <clipPath id="SVGID_42_">
+                        <use xlink:href="#SVGID_41_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st91">
+                        <path class="st65" d="M187.8 71.6l1.4-.8-.1.1-1.4.8s0-.1.1-.1"/>
+                        <path class="st66" d="M187.7 71.7l1.4-.8v.1l-1.4.7c0 .1 0 0 0 0"/>
+                        <path class="st67" d="M187.6 71.8l1.4-.8-1.4.8"/>
+                        <path class="st68" d="M187.6 71.8l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st69" d="M187.6 71.9l1.4-.8-1.4.8"/>
+                        <path class="st70" d="M187.6 71.9l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st71" d="M187.6 72l1.4-.8v.1l-1.4.7"/>
+                        <path class="st72" d="M187.6 72l1.4-.8v.1l-1.4.7c0 .1 0 0 0 0"/>
+                        <path class="st73" d="M187.6 72.1l1.4-.8v.1l-1.4.7"/>
+                        <path class="st74" d="M187.6 72.1l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st42" d="M187.6 72.2l1.4-.8v.1l-1.4.7"/>
+                        <path class="st43" d="M187.6 72.3l1.4-.8v.1l-1.4.7"/>
+                        <path class="st44" d="M187.6 72.3l1.4-.8v.1l-1.4.7c0 .1 0 0 0 0"/>
+                        <path class="st45" d="M187.6 72.4l1.4-.8v.1l-1.4.7"/>
+                        <path class="st46" d="M187.6 72.4l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st47" d="M187.6 72.5l1.4-.8v.1l-1.4.7"/>
+                        <path class="st48" d="M187.6 72.5l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st49" d="M187.6 72.6l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M187.6 72.6l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st51" d="M187.6 72.7l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M187.6 72.7l1.4-.8-1.4.8c.1.1 0 0 0 0"/>
+                        <path class="st53" d="M187.7 72.8l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M187.7 72.8l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M187.7 72.9l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M187.7 72.9l1.4-.8-1.4.8"/>
+                        <path class="st57" d="M187.7 72.9l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st58" d="M187.7 73l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M187.8 73l1.4-.8-1.4.8"/>
+                        <path class="st60" d="M187.8 73l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_43_" class="st6" d="M187.8 71.6l1.4-.8-1.4.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_44_">
+                        <use xlink:href="#SVGID_43_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st92">
+                        <path class="st65" d="M187.8 71.6l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_45_" class="st6" d="M194.8 80.3l-1.4.8c.1 0 .2-.1.2-.2l1.4-.8-.2.2z"/>
+                    </defs>
+                    <clipPath id="SVGID_46_">
+                        <use xlink:href="#SVGID_45_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st93">
+                        <path class="st65" d="M193.6 80.9l1.4-.8-.2.2-1.4.8.2-.2"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_47_" class="st6" d="M193.9 80.4l1.4-.8c-.1.2-.2.4-.3.5l-1.4.8c.1-.1.2-.3.3-.5z"/>
+                    </defs>
+                    <clipPath id="SVGID_48_">
+                        <use xlink:href="#SVGID_47_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st94">
+                        <path class="st68" d="M193.9 80.4l1.4-.8v.1l-1.4.7c-.1.1 0 0 0 0"/>
+                        <path class="st67" d="M193.8 80.5l1.4-.8c0 .1 0 .1-.1.1l-1.4.8c.1 0 .1-.1.1-.1"/>
+                        <path class="st66" d="M193.8 80.6l1.4-.8c0 .1 0 .1-.1.1l-1.4.8.1-.1"/>
+                        <path class="st65" d="M193.7 80.8l1.4-.8c0 .1-.1.1-.1.1l-1.4.8.1-.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_49_" class="st6" d="M186.8 69.9l1.4-.8c.1 0 .1-.1.2-.1.2-.1.5-.1.7 0l-1.4.8c-.3-.1-.5 0-.7 0-.1 0-.2 0-.2.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_50_">
+                        <use xlink:href="#SVGID_49_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st95">
+                        <path class="st65" d="M186.8 69.9l1.4-.8c.1 0 .1-.1.2-.1l-1.4.8c-.1 0-.2 0-.2.1"/>
+                        <path class="st66" d="M186.9 69.8l1.4-.8h.2l-1.4.8c0-.1-.1 0-.2 0"/>
+                        <path class="st67" d="M187.1 69.7l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st68" d="M187.3 69.7l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st69" d="M187.4 69.7l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st70" d="M187.5 69.7l1.4-.8h.1l-1.5.8"/>
+                        <path class="st71" d="M187.6 69.7l1.4-.8h.1l-1.5.8"/>
+                        <path class="st72" d="M187.6 69.7l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_51_" class="st6" d="M187.7 69.7l1.4-.8c.3.1.5.2.7.3l-1.4.8c-.2-.1-.4-.2-.7-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_52_">
+                        <use xlink:href="#SVGID_51_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st96">
+                        <path class="st72" d="M187.7 69.7l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M187.7 69.7l1.4-.8h.2l-1.4.8c-.1.1-.2.1-.2 0"/>
+                        <path class="st74" d="M187.9 69.8l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st42" d="M188 69.8l1.4-.8h.1l-1.4.8c0 .1-.1 0-.1 0"/>
+                        <path class="st43" d="M188.1 69.9l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st44" d="M188.2 69.9l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st45" d="M188.3 70l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st46" d="M188.4 70l1.4-.8h.1l-1.5.8"/>
+                    </g>
+                </g>
+                <path class="st63" d="M188.4 73.7l1.4-.8 3.3 1.9-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_53_" class="st6" d="M193.6 77.8l1.4-.8c.1.3.2.5.3.8.1.3.1.6.1.9s0 .6-.1.8l-1.4.8c.1-.2.1-.5.1-.8s0-.6-.1-.9c-.1-.2-.2-.5-.3-.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_54_">
+                        <use xlink:href="#SVGID_53_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st97">
+                        <path class="st57" d="M193.6 77.8l1.4-.8-1.4.9v-.1"/>
+                        <path class="st56" d="M193.6 77.9l1.4-.9v.1l-1.4.8"/>
+                        <path class="st55" d="M193.6 77.9l1.4-.8v.1l-1.4.7c.1.1 0 .1 0 0"/>
+                        <path class="st54" d="M193.7 78l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st53" d="M193.7 78.1l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st52" d="M193.7 78.2l1.4-.8v.1l-1.4.8c.1 0 .1 0 0-.1"/>
+                        <path class="st51" d="M193.8 78.4l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st50" d="M193.8 78.5l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st49" d="M193.9 78.6l1.4-.8v.2l-1.4.8v-.2c0 .1 0 0 0 0"/>
+                        <path class="st48" d="M193.9 78.7l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st47" d="M193.9 78.8l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st46" d="M193.9 78.9l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st45" d="M193.9 79.1l1.4-.8v.1l-1.4.8c.1-.1 0-.1 0-.1"/>
+                        <path class="st44" d="M194 79.2l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st43" d="M194 79.3l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st42" d="M194 79.5l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st74" d="M194 79.6l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st73" d="M194 79.8l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st72" d="M194 79.9l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st71" d="M193.9 80l1.4-.8v.1l-1.4.8V80"/>
+                        <path class="st70" d="M193.9 80.1l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st69" d="M193.9 80.2l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st68" d="M193.9 80.3l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_55_" class="st6" d="M191.7 75.6l1.4-.8c.2.1.3.2.5.4.2.1.3.3.5.5s.3.4.5.6l-1.4.8c-.2-.2-.3-.4-.5-.6-.2-.2-.3-.4-.5-.5-.2-.2-.3-.3-.5-.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_56_">
+                        <use xlink:href="#SVGID_55_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st98">
+                        <path class="st47" d="M191.7 75.6l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M191.7 75.6l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st49" d="M191.9 75.7l1.4-.8.1.1-1.4.8c-.1 0-.1-.1-.1-.1"/>
+                        <path class="st50" d="M192 75.8l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st51" d="M192.1 75.9l1.4-.8.1.1-1.4.8c0-.1-.1-.1-.1-.1"/>
+                        <path class="st52" d="M192.2 76l1.4-.8.1.1-1.4.8c0-.1-.1-.1-.1-.1"/>
+                        <path class="st53" d="M192.3 76.1l1.4-.8.1.1-1.4.8c0-.1 0-.1-.1-.1"/>
+                        <path class="st54" d="M192.4 76.2l1.4-.8.1.1-1.5.7c.1 0 .1 0 0 0"/>
+                        <path class="st55" d="M192.5 76.3l1.4-.8.1.1-1.5.7c.1 0 0 0 0 0"/>
+                        <path class="st56" d="M192.6 76.4l1.4-.8.1.1-1.4.8c0-.1-.1-.1-.1-.1"/>
+                        <path class="st57" d="M192.7 76.5l1.4-.8.1.1-1.4.8s0-.1-.1-.1"/>
+                        <path class="st58" d="M192.8 76.6l1.4-.8.1.1-1.4.8s0-.1-.1-.1"/>
+                        <path class="st59" d="M192.9 76.7l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st60" d="M193 76.8l1.4-.8c0 .1.1.1.1.2l-1.4.8s0-.1-.1-.2"/>
+                        <path class="st61" d="M193.1 77l1.4-.8s0 .1.1.1l-1.5.7c.1.1 0 0 0 0"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_57_" class="st6" d="M193.2 77.1l1.4-.8c.2.2.3.5.4.7l-1.4.8c-.1-.2-.3-.5-.4-.7z"/>
+                    </defs>
+                    <clipPath id="SVGID_58_">
+                        <use xlink:href="#SVGID_57_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st99">
+                        <path class="st61" d="M193.2 77.1l1.4-.8c.1.1.1.2.2.2l-1.4.8c-.1 0-.2-.1-.2-.2"/>
+                        <path class="st60" d="M193.3 77.3l1.4-.8c0 .1.1.1.1.2l-1.4.8s0-.1-.1-.2"/>
+                        <path class="st59" d="M193.4 77.5l1.4-.8s0 .1.1.1l-1.4.8-.1-.1"/>
+                        <path class="st58" d="M193.5 77.6l1.4-.8s0 .1.1.1l-1.4.8c-.1 0-.1 0-.1-.1"/>
+                        <path class="st57" d="M193.6 77.8l1.4-.8v.1l-1.4.7"/>
+                    </g>
+                </g>
+                <path class="st63" d="M188.4 70l1.4-.8 4.9 2.8-1.4.8z"/>
+                <path class="st62" d="M193.3 72.8l1.4-.8v1.6l-1.4.9z"/>
+                <path class="st82" d="M193.6 77.8c.1.3.2.5.3.8.1.3.1.6.1.9s0 .6-.1.8c-.1.2-.2.4-.3.5-.1.1-.3.2-.4.3-.2 0-.3.1-.5.1s-.3 0-.5-.1-.3-.1-.5-.2l-5.5-3.2v-1.6l5.5 3.2c.3.2.5.2.6.1.2-.1.2-.3.2-.6 0-.1 0-.3-.1-.4 0-.1-.1-.3-.2-.4-.1-.1-.2-.3-.3-.4s-.2-.2-.4-.3l-3.3-1.9c-.2-.1-.5-.3-.7-.6-.3-.3-.5-.5-.7-.9-.2-.3-.4-.7-.6-1.1-.2-.4-.2-.9-.2-1.4 0-.5.1-.9.2-1.1.1-.3.3-.4.6-.5.2-.1.5-.1.7 0 .3.1.5.2.7.3l4.8 2.8v1.6l-4.8-2.8c-.3-.2-.5-.2-.6-.1-.2.1-.2.3-.2.6s.1.6.2.9c.1.3.4.5.6.6l3.3 1.9c.2.1.3.2.5.4.2.1.3.3.5.5s.3.4.5.6c.3.2.5.5.6.7z"/>
+            </g>
+            <g class="st6">
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_59_" class="st6" d="M189.9 63.5l1.4-.8h.2l-1.4.8h-.2z"/>
+                    </defs>
+                    <clipPath id="SVGID_60_">
+                        <use xlink:href="#SVGID_59_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st100">
+                        <path class="st69" d="M189.9 63.5l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st70" d="M190 63.5l1.4-.8-1.4.8"/>
+                        <path class="st71" d="M190.1 63.5l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_61_" class="st6" d="M190.4 64.4l1.4-.8c.9 1.6 2 3 3.3 4.1l-1.4.8c-1.4-1.2-2.4-2.5-3.3-4.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_62_">
+                        <use xlink:href="#SVGID_61_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st101">
+                        <path class="st60" d="M190.4 64.4l1.4-.8.1.1-1.4.8-.1-.1"/>
+                        <path class="st61" d="M190.4 64.5l1.4-.8c.2.4.5.7.7 1.1l-1.4.8c-.2-.4-.4-.7-.7-1.1"/>
+                        <path class="st60" d="M191.1 65.6l1.4-.8c.1.2.3.4.4.6l-1.4.8c-.1-.2-.2-.4-.4-.6"/>
+                        <path class="st59" d="M191.5 66.2l1.4-.8c.1.1.2.2.3.4l-1.4.8c-.1-.2-.2-.3-.3-.4"/>
+                        <path class="st58" d="M191.8 66.5l1.4-.8.3.3-1.4.8c-.1 0-.2-.1-.3-.3"/>
+                        <path class="st57" d="M192.1 66.9l1.4-.8.3.3-1.4.8c-.2-.1-.2-.2-.3-.3"/>
+                        <path class="st56" d="M192.3 67.2l1.4-.8.3.3-1.4.8-.3-.3"/>
+                        <path class="st55" d="M192.6 67.5l1.4-.8.3.3-1.4.8c-.1-.2-.2-.3-.3-.3"/>
+                        <path class="st54" d="M192.9 67.7l1.4-.8.3.3-1.4.8-.3-.3"/>
+                        <path class="st53" d="M193.2 68l1.4-.8.3.3-1.4.8-.3-.3"/>
+                        <path class="st52" d="M193.5 68.3l1.4-.8.2.2-1.4.8c-.1-.1-.2-.1-.2-.2"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_63_" class="st6" d="M193.6 67.4l1.4-.8c.3.6.6 1.2 1 1.7l-1.4.8c-.3-.5-.7-1.1-1-1.7z"/>
+                    </defs>
+                    <clipPath id="SVGID_64_">
+                        <use xlink:href="#SVGID_63_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st102">
+                        <path class="st58" d="M193.6 67.4l1.4-.8c0 .1.1.1.1.2l-1.4.8c0-.1 0-.2-.1-.2"/>
+                        <path class="st59" d="M193.7 67.6l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.2 0-.2-.1-.3"/>
+                        <path class="st60" d="M193.9 67.8l1.4-.8c.1.1.1.2.2.3l-1.4.8c-.1 0-.2-.2-.2-.3"/>
+                        <path class="st61" d="M194 68.2l1.4-.8c.1.2.2.3.3.5l-1.4.8c-.1-.2-.2-.4-.3-.5"/>
+                        <path class="st60" d="M194.4 68.7l1.4-.8c.1.1.1.2.2.3l-1.4.8c-.1-.2-.2-.3-.2-.3"/>
+                        <path class="st59" d="M194.5 68.9l1.4-.8c0 .1.1.1.1.2l-1.4.8c0-.1 0-.1-.1-.2"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_65_" class="st6" d="M188.3 57.9l1.4-.8c.1 1.8.6 3.7 1.6 5.6l-1.4.8c-1-2-1.5-3.8-1.6-5.6z"/>
+                    </defs>
+                    <clipPath id="SVGID_66_">
+                        <use xlink:href="#SVGID_65_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st103">
+                        <path class="st43" d="M188.3 57.9l1.4-.8v.3l-1.4.8v-.3"/>
+                        <path class="st44" d="M188.3 58.2l1.4-.8v.3l-1.4.8v-.3"/>
+                        <path class="st45" d="M188.3 58.5l1.4-.8v.3l-1.4.8c.1-.1.1-.2 0-.3"/>
+                        <path class="st46" d="M188.4 58.8l1.4-.8v.3l-1.4.8v-.3"/>
+                        <path class="st47" d="M188.4 59.2l1.4-.8c0 .1 0 .2.1.3l-1.4.8c0-.1-.1-.2-.1-.3"/>
+                        <path class="st48" d="M188.5 59.5l1.4-.8c0 .1 0 .2.1.3l-1.4.8c-.1-.1-.1-.2-.1-.3"/>
+                        <path class="st49" d="M188.5 59.8l1.5-.8c0 .1.1.2.1.3l-1.4.8c-.1 0-.1-.1-.2-.3"/>
+                        <path class="st50" d="M188.6 60.2l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.1 0-.2-.1-.3"/>
+                        <path class="st51" d="M188.7 60.5l1.4-.8c0 .1.1.2.1.4l-1.4.8c0-.1 0-.3-.1-.4"/>
+                        <path class="st52" d="M188.8 60.9l1.4-.8c0 .1.1.2.1.4l-1.4.8c0-.2 0-.3-.1-.4"/>
+                        <path class="st53" d="M188.9 61.2l1.4-.8c0 .1.1.2.1.4l-1.4.8c0-.1 0-.2-.1-.4"/>
+                        <path class="st54" d="M189.1 61.6l1.4-.8c0 .1.1.2.1.4l-1.4.8c-.1-.2-.1-.3-.1-.4"/>
+                        <path class="st55" d="M189.2 61.9l1.4-.8c0 .1.1.2.1.4l-1.4.8c0-.1-.1-.2-.1-.4"/>
+                        <path class="st56" d="M189.3 62.3l1.4-.8c.1.1.1.2.2.4l-1.4.8c-.1-.2-.1-.3-.2-.4"/>
+                        <path class="st57" d="M189.5 62.7l1.4-.8c.1.1.1.3.2.4l-1.4.8c-.1-.2-.2-.3-.2-.4"/>
+                        <path class="st58" d="M189.7 63l1.4-.8c.1.1.1.3.2.4l-1.4.8c-.1-.1-.2-.2-.2-.4"/>
+                        <path class="st59" d="M189.9 63.5l1.4-.9v.1l-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_67_" class="st6" d="M193.2 62.8l-1.4.8h-.1c-.1 0-.2 0-.2-.1-.5 0-.9-.1-1.4-.1l1.4-.8c.5 0 .9.1 1.4.1 0 .1.1.1.3.1-.1.1-.1.1 0 0z"/>
+                    </defs>
+                    <clipPath id="SVGID_68_">
+                        <use xlink:href="#SVGID_67_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st104">
+                        <path class="st70" d="M190.1 63.5l1.4-.8c.5 0 .9.1 1.4.1l-1.4.8c-.5 0-1-.1-1.4-.1"/>
+                        <path class="st71" d="M191.5 63.6l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M191.5 63.6l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st73" d="M191.6 63.6l1.4-.8h.1l-1.4.8c-.1.1-.1 0-.1 0"/>
+                        <path class="st72" d="M191.7 63.7l1.4-.9-1.4.9"/>
+                        <path class="st71" d="M191.7 63.7l1.4-.9-1.4.9"/>
+                        <path class="st70" d="M191.7 63.7l1.4-.9-1.4.9"/>
+                        <path class="st69" d="M191.7 63.7l1.4-.9v.1l-1.4.8"/>
+                        <path class="st68" d="M191.7 63.7l1.4-.8v-.1l-1.4.9"/>
+                        <path class="st67" d="M191.7 63.7l1.4-.9-1.4.9"/>
+                        <path class="st66" d="M191.7 63.7l1.4-.9h.1l-1.5.9"/>
+                        <path class="st65" d="M191.7 63.7l1.5-.9-1.4.9h-.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_69_" class="st6" d="M192.7 64.9l1.4-.8c.2.8.5 1.7.9 2.5l-1.4.8c-.4-.9-.6-1.7-.9-2.5z"/>
+                    </defs>
+                    <clipPath id="SVGID_70_">
+                        <use xlink:href="#SVGID_69_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st105">
+                        <path class="st51" d="M192.7 64.9l1.4-.8c.1.2.1.4.2.6l-1.4.8c-.1-.2-.1-.4-.2-.6"/>
+                        <path class="st52" d="M192.9 65.4l1.4-.8c0 .2.1.3.2.5l-1.4.8c-.1-.1-.2-.3-.2-.5"/>
+                        <path class="st53" d="M193.1 65.9l1.4-.8c0 .1.1.3.1.4l-1.4.8c-.1-.1-.1-.3-.1-.4"/>
+                        <path class="st54" d="M193.2 66.3l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.1-.1-.2-.1-.3"/>
+                        <path class="st55" d="M193.3 66.6l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.1-.1-.2-.1-.3"/>
+                        <path class="st56" d="M193.4 66.9l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.1 0-.2-.1-.3"/>
+                        <path class="st57" d="M193.5 67.2l1.4-.8c0 .1.1.1.1.2l-1.4.8c0-.1 0-.2-.1-.2"/>
+                    </g>
+                </g>
+                <path class="st106" d="M192.7 64.7l1.4-.8v.2l-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_71_" class="st6" d="M188.4 56.2l1.4-.8c0 .2-.1.5-.1.8l-1.4.8c0-.3 0-.6.1-.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_72_">
+                        <use xlink:href="#SVGID_71_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st107">
+                        <path class="st71" d="M188.4 56.2l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st72" d="M188.4 56.3l1.4-.8c0 .2 0 .4-.1.7l-1.4.8c0-.2 0-.5.1-.7"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_73_" class="st6" d="M196.6 70.5l1.4-.8h.3l-1.4.8h-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_74_">
+                        <use xlink:href="#SVGID_73_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st108">
+                        <path class="st71" d="M196.6 70.5l1.4-.8h.1l-1.5.8c.1 0 0 0 0 0"/>
+                        <path class="st72" d="M196.7 70.5l1.4-.8h.1l-1.5.8"/>
+                        <path class="st71" d="M196.8 70.5l1.4-.8h.1l-1.5.8"/>
+                    </g>
+                </g>
+                <path class="st109" d="M198.3 71.1l1.4-.8h-.1l-1.4.9z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_75_" class="st6" d="M199.2 69.5l-1.4.8c-.3.2-.6.2-.9.2l1.4-.8c.4.1.7 0 .9-.2z"/>
+                    </defs>
+                    <clipPath id="SVGID_76_">
+                        <use xlink:href="#SVGID_75_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st110">
+                        <path class="st70" d="M196.9 70.6l1.4-.9-1.4.9"/>
+                        <path class="st69" d="M196.9 70.6l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st68" d="M197 70.6l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st67" d="M197.2 70.6l1.4-.8h.2l-1.4.8c-.1-.1-.2-.1-.2 0"/>
+                        <path class="st66" d="M197.3 70.5l1.4-.8c.1 0 .1 0 .2-.1l-1.4.8c0 .1-.1.1-.2.1"/>
+                        <path class="st65" d="M197.5 70.5l1.4-.8c.1 0 .2-.1.3-.1l-1.4.8c-.1 0-.2 0-.3.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_77_" class="st6" d="M188.3 57l1.4-.8c.1.1.2.1.3.2.8.5 1.6.9 2.5 1.4l-1.4.8c-.8-.5-1.6-.9-2.5-1.4-.1-.1-.2-.1-.3-.2z"/>
+                    </defs>
+                    <clipPath id="SVGID_78_">
+                        <use xlink:href="#SVGID_77_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st111">
+                        <path class="st46" d="M188.3 57l1.4-.8c.1.1.2.1.3.2.8.5 1.6.9 2.5 1.4l-1.4.8c-.8-.5-1.6-.9-2.5-1.4-.1-.1-.2-.1-.3-.2"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_79_" class="st6" d="M192 60.2l1.4-.8c0 1.1.2 2.2.4 3.4l-1.4.8c-.2-1.1-.4-2.3-.4-3.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_80_">
+                        <use xlink:href="#SVGID_79_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st112">
+                        <path class="st42" d="M192 60.2l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st43" d="M192 60.4l1.4-.8v.5l-1.4.8v-.5"/>
+                        <path class="st44" d="M192 60.9l1.4-.8v.5l-1.4.8c.1-.2.1-.3 0-.5"/>
+                        <path class="st45" d="M192.1 61.4l1.4-.8c0 .2 0 .4.1.6l-1.4.8c-.1-.2-.1-.4-.1-.6"/>
+                        <path class="st46" d="M192.1 62l1.4-.8c0 .2.1.4.1.6l-1.4.8c0-.2 0-.4-.1-.6"/>
+                        <path class="st47" d="M192.2 62.6l1.4-.8c0 .2.1.4.1.6l-1.4.8c0-.2 0-.4-.1-.6"/>
+                        <path class="st48" d="M192.3 63.2l1.4-.8c0 .2.1.3.1.5l-1.4.8c0-.2 0-.4-.1-.5"/>
+                    </g>
+                </g>
+                <path class="st63" d="M191 58.6l1.4-.8.2.1-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_81_" class="st6" d="M192.7 57.9l-1.4.8h-.1l1.4-.8h.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_82_">
+                        <use xlink:href="#SVGID_81_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st113">
+                        <path class="st46" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st44" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st42" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st71" d="M191.2 58.7l1.4-.8-1.4.8"/>
+                        <path class="st70" d="M191.2 58.7l1.4-.8h.1l-1.5.8"/>
+                        <path class="st69" d="M191.2 58.7l1.5-.8-1.4.8h-.1"/>
+                        <path class="st68" d="M191.3 58.7l1.4-.8-1.4.8"/>
+                        <path class="st67" d="M191.3 58.7l1.4-.8-1.4.8"/>
+                        <path class="st66" d="M191.3 58.7l1.4-.8-1.4.8"/>
+                        <path class="st65" d="M191.3 58.7l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_83_" class="st6" d="M192 60l1.4-.8v.2l-1.4.8V60z"/>
+                    </defs>
+                    <clipPath id="SVGID_84_">
+                        <use xlink:href="#SVGID_83_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st114">
+                        <path class="st73" d="M192 60l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M192 60l1.4-.8v.1l-1.4.8V60"/>
+                        <path class="st73" d="M192 60.1l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M192 60.2l1.4-.8-1.4.8"/>
+                        <path class="st42" d="M192 60.2l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M192 60.2l1.4-.8-1.4.8"/>
+                        <path class="st44" d="M192 60.2l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_85_" class="st6" d="M192.4 63.7l1.4-.8c0 .1.1.2.1.2s.1 0 .1.1c.3.1.7.2 1 .4.5.2.9.4 1.4.6l-1.4.8c-.5-.2-.9-.4-1.4-.6-.3-.1-.7-.3-1-.4 0 0-.1 0-.1-.1 0 0 0-.1-.1-.2z"/>
+                    </defs>
+                    <clipPath id="SVGID_86_">
+                        <use xlink:href="#SVGID_85_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st115">
+                        <path class="st49" d="M192.4 63.7l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M192.4 63.7l1.4-.8-1.4.8"/>
+                        <path class="st51" d="M192.5 63.7l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st53" d="M192.5 63.8l1.4-.9v.1l-1.4.8"/>
+                        <path class="st54" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st57" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st60" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st61" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st60" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M192.5 63.8l1.4-.8-1.4.8"/>
+                        <path class="st57" d="M192.5 63.8l1.4-.8-1.4.9v-.1"/>
+                        <path class="st56" d="M192.5 63.9l1.4-.9-1.4.9"/>
+                        <path class="st55" d="M192.5 63.9l1.4-.9-1.4.9"/>
+                        <path class="st54" d="M192.5 63.9l1.4-.9-1.4.9"/>
+                        <path class="st53" d="M192.5 63.9l1.4-.9-1.4.9"/>
+                        <path class="st52" d="M192.5 63.9l1.4-.9v.1l-1.4.8"/>
+                        <path class="st51" d="M192.5 63.9l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M192.5 63.9l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M192.5 63.9l1.4-.8h.1l-1.5.8"/>
+                        <path class="st48" d="M192.5 63.9l1.5-.8-1.5.8"/>
+                        <path class="st47" d="M192.5 63.9l1.5-.8-1.4.8h-.1"/>
+                        <path class="st46" d="M192.6 63.9l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M192.6 63.9l1.4-.8-1.4.8"/>
+                        <path class="st44" d="M192.6 63.9l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M192.6 63.9l1.4-.8-1.4.8"/>
+                        <path class="st42" d="M192.6 63.9l1.4-.8h.1l-1.4.8c.1.1 0 .1-.1 0 .1 0 0 0 0 0"/>
+                        <path class="st74" d="M192.8 64l1.4-.8c.1 0 .3.1.4.1l-1.4.8c-.1 0-.3-.1-.4-.1"/>
+                        <path class="st42" d="M193.2 64.1l1.4-.8c.1 0 .2.1.4.1l-1.4.8c-.1 0-.3 0-.4-.1"/>
+                        <path class="st43" d="M193.6 64.3l1.4-.8s.1 0 .1.1c.1 0 .2.1.2.1l-1.4.8c-.1 0-.2-.1-.2-.1 0-.1-.1-.1-.1-.1"/>
+                        <path class="st44" d="M194 64.4l1.4-.8c.4.2.7.3 1.1.5l-1.4.8c-.4-.1-.8-.3-1.1-.5"/>
+                        <path class="st45" d="M195 64.9l1.4-.8-1.4.8c.1.1 0 0 0 0"/>
+                    </g>
+                </g>
+                <path class="st116" d="M195.1 65l1.4-.9v.1l-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_87_" class="st6" d="M196.6 66.7l1.4-.8v3.8l-1.4.8v-3.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_88_">
+                        <use xlink:href="#SVGID_87_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st117">
+                        <path class="st70" d="M196.6 66.7l1.4-.9-1.4.9"/>
+                        <path class="st71" d="M196.6 66.7l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M196.6 66.7l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M196.6 66.7l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st74" d="M196.6 66.8l1.4-.8v1.2l-1.4.8v-1.2"/>
+                        <path class="st42" d="M196.6 68l1.4-.8v2.2l-1.4.8V68"/>
+                        <path class="st43" d="M196.6 70.2l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st44" d="M196.6 70.4l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M196.6 70.5l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M196.6 70.5l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M196.6 70.5l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M196.6 70.5l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_89_" class="st6" d="M195.1 65l1.4-.8c.3.2.7.4 1 .5l-1.4.8c-.3-.2-.6-.3-1-.5z"/>
+                    </defs>
+                    <clipPath id="SVGID_90_">
+                        <use xlink:href="#SVGID_89_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st118">
+                        <path class="st46" d="M195.1 65l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st45" d="M195.2 65l1.4-.8c.1.1.2.1.3.2l-1.4.8c-.1-.1-.2-.1-.3-.2"/>
+                        <path class="st46" d="M195.5 65.2l1.4-.8.6.3-1.4.8-.6-.3"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_91_" class="st6" d="M189.9 53.3l1.4-.8-.1.1c-.7.7-1.2 1.6-1.4 2.9l-1.4.8c.2-1.4.6-2.3 1.5-3-.1 0-.1 0 0 0z"/>
+                    </defs>
+                    <clipPath id="SVGID_92_">
+                        <use xlink:href="#SVGID_91_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st119">
+                        <path class="st65" d="M189.9 53.3l1.4-.8-.1.1c-.3.2-.5.5-.7.8l-1.4.8c.2-.4.4-.6.8-.9-.1 0-.1 0 0 0"/>
+                        <path class="st66" d="M189.1 54.1l1.4-.8c-.1.1-.2.3-.2.5l-1.4.8c0-.2.1-.3.2-.5"/>
+                        <path class="st67" d="M188.8 54.6l1.4-.8c-.1.1-.1.3-.2.4l-1.4.8c.1-.1.2-.3.2-.4"/>
+                        <path class="st68" d="M188.7 55l1.4-.8c0 .1-.1.2-.1.4l-1.4.8c0-.2 0-.3.1-.4"/>
+                        <path class="st69" d="M188.6 55.4l1.4-.8c0 .1-.1.2-.1.3l-1.4.8c0-.1 0-.2.1-.3"/>
+                        <path class="st70" d="M188.5 55.7l1.4-.8c0 .1 0 .2-.1.3l-1.4.8c0-.1 0-.2.1-.3"/>
+                        <path class="st71" d="M188.4 56l1.4-.8v.2l-1.4.8V56"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_93_" class="st6" d="M190.4 52.9l1.4-.8-1.4.8c-.1 0 0 0 0 0z"/>
+                    </defs>
+                    <clipPath id="SVGID_94_">
+                        <use xlink:href="#SVGID_93_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st120">
+                        <path class="st65" d="M190.4 52.9l1.4-.8-1.4.8c-.1 0 0 0 0 0"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_95_" class="st6" d="M199.8 69.1l1.4-.8c-.1.1-.1.2-.2.3-.3.7-.7 1.2-1.3 1.6l-1.4.8c.6-.3 1-.9 1.3-1.6.1 0 .2-.1.2-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_96_">
+                        <use xlink:href="#SVGID_95_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st121">
+                        <path class="st65" d="M199.8 69.1l1.4-.8-1.4.8"/>
+                        <path class="st66" d="M199.8 69.1l1.4-.8-1.4.8"/>
+                        <path class="st67" d="M199.8 69.2l1.4-.8-1.4.8"/>
+                        <path class="st66" d="M199.8 69.2l1.4-.8c0 .1-.1.2-.1.2l-1.4.8s0-.1.1-.2"/>
+                        <path class="st67" d="M199.7 69.4l1.4-.8-1.4.8c-.1.1-.1.1 0 0 0 .1 0 .1 0 0"/>
+                        <path class="st66" d="M199.6 69.5l1.4-.8c-.1.2-.2.4-.3.5l-1.4.8c.2-.1.2-.3.3-.5"/>
+                        <path class="st65" d="M199.3 70l1.4-.8c-.3.4-.6.8-1 1l-1.4.8c.5-.2.8-.6 1-1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_97_" class="st6" d="M200.8 67l-1.4.8h-.1s-.1 0-.1-.1c-.9-.7-1.8-1.4-2.8-2-.1-.1-.2-.1-.3-.2l1.4-.8c.1.1.2.1.3.2.9.6 1.9 1.3 2.8 2 0 0 .1 0 .2.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_98_">
+                        <use xlink:href="#SVGID_97_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st122">
+                        <path class="st46" d="M196.1 65.5l1.4-.8s.1 0 .1.1l-1.5.7c.1.1 0 0 0 0"/>
+                        <path class="st47" d="M196.2 65.6l1.4-.8c.1 0 .1.1.2.1l.1.1-1.4.8-.1-.1c-.1 0-.1-.1-.2-.1"/>
+                        <path class="st48" d="M196.5 65.8l1.4-.8c.2.1.4.3.6.4l-1.4.8c-.1-.1-.3-.3-.6-.4"/>
+                        <path class="st49" d="M197.2 66.2l1.4-.8c.3.2.5.4.8.6l-1.4.8c-.3-.2-.6-.4-.8-.6"/>
+                        <path class="st50" d="M198 66.8l1.4-.8c.4.3.7.5 1.1.8l-1.4.8c-.4-.3-.8-.6-1.1-.8"/>
+                        <path class="st51" d="M199.1 67.6l1.4-.8.1.1-1.4.8c-.1 0-.1-.1-.1-.1"/>
+                        <path class="st50" d="M199.2 67.7l1.4-.8h.1l-1.5.8"/>
+                        <path class="st49" d="M199.2 67.7l1.4-.8-1.4.8c.1.1.1.1 0 0"/>
+                        <path class="st48" d="M199.3 67.8l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M199.3 67.8l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M199.3 67.8l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M199.3 67.8l1.4-.8-1.4.8"/>
+                        <path class="st44" d="M199.3 67.8l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M199.3 67.8l1.4-.8-1.4.8"/>
+                        <path class="st42" d="M199.3 67.8l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M199.3 67.8l1.4-.8h.1l-1.5.8"/>
+                        <path class="st73" d="M199.3 67.8l1.5-.8-1.5.8"/>
+                        <path class="st72" d="M199.3 67.8l1.5-.8-1.4.8h-.1"/>
+                        <path class="st71" d="M199.4 67.8l1.4-.8-1.4.8"/>
+                        <path class="st70" d="M199.4 67.8l1.4-.8-1.4.8"/>
+                        <path class="st69" d="M199.4 67.8l1.4-.8-1.4.8"/>
+                        <path class="st68" d="M199.4 67.8l1.4-.8-1.4.8"/>
+                        <path class="st67" d="M199.4 67.8l1.4-.8-1.4.8"/>
+                        <path class="st66" d="M199.4 67.8l1.4-.8-1.4.8"/>
+                        <path class="st65" d="M199.4 67.8l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_99_" class="st6" d="M192.5 55.8l1.4-.8c0 .1-.1.1-.1.2l-1.4.8c.1 0 .1-.1.1-.2z"/>
+                    </defs>
+                    <clipPath id="SVGID_100_">
+                        <use xlink:href="#SVGID_99_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st123">
+                        <path class="st67" d="M192.5 55.8l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st66" d="M192.5 55.9l1.4-.8v.1l-1.4.7"/>
+                        <path class="st67" d="M192.5 56l1.4-.8-1.4.8"/>
+                        <path class="st68" d="M192.5 56l1.4-.8-1.4.8"/>
+                        <path class="st69" d="M192.5 56l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_101_" class="st6" d="M192.5 56l1.4-.8c-.3.9-.4 1.9-.4 2.9 0 .2 0 .3.2.4 1.1.7 2.3 1.3 3.4 2 .1 0 .1.1.2.1l-1.4.8c-.1 0-.1-.1-.2-.1-1.1-.7-2.3-1.3-3.4-2-.2-.1-.2-.2-.2-.4 0-1 .1-2 .4-2.9z"/>
+                    </defs>
+                    <clipPath id="SVGID_102_">
+                        <use xlink:href="#SVGID_101_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st124">
+                        <path class="st68" d="M192.5 56l1.4-.8-1.4.8"/>
+                        <path class="st69" d="M192.4 56l1.4-.8c-.1.2-.1.4-.1.5l-1.4.8c.1-.1.1-.3.1-.5"/>
+                        <path class="st70" d="M192.3 56.6l1.4-.8c0 .2-.1.4-.1.5l-1.4.8c0-.2.1-.4.1-.5"/>
+                        <path class="st71" d="M192.2 57.1l1.4-.8c0 .2-.1.4-.1.6l-1.4.8c0-.2.1-.4.1-.6"/>
+                        <path class="st72" d="M192.1 57.7l1.4-.8c0 .2 0 .4-.1.6l-1.4.8c.1-.2.1-.4.1-.6"/>
+                        <path class="st73" d="M192.1 58.3l1.4-.8v.6l-1.4.8c-.1-.2-.1-.4 0-.6"/>
+                        <path class="st74" d="M192 58.9l1.4-.8v.1l-1.4.7c0 .1 0 .1 0 0"/>
+                        <path class="st42" d="M192 59l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M192 59l1.4-.8-1.4.8"/>
+                        <path class="st44" d="M192 59l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st45" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st51" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st53" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st57" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M192 59.1l1.4-.8-1.4.8"/>
+                        <path class="st60" d="M192 59.1l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st59" d="M192.1 59.2l1.4-.9-1.4.9"/>
+                        <path class="st58" d="M192.1 59.2l1.4-.9v.1l-1.4.8"/>
+                        <path class="st57" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st53" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st51" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M192.1 59.2l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M192.2 59.2l1.4-.8h.1l-1.5.8c0 .1 0 .1 0 0"/>
+                        <path class="st46" d="M192.2 59.3l1.4-.8c1.1.7 2.3 1.3 3.4 2l-1.4.8c-1.1-.7-2.2-1.3-3.4-2"/>
+                        <path class="st47" d="M195.7 61.3l1.4-.8c.1 0 .1.1.2.1l-1.4.8c-.1 0-.1-.1-.2-.1"/>
+                        <path class="st46" d="M195.9 61.4l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_103_" class="st6" d="M190.3 52.9l1.4-.8c.6.6 1.1 1.2 1.7 1.7l-1.4.8-1.7-1.7z"/>
+                    </defs>
+                    <clipPath id="SVGID_104_">
+                        <use xlink:href="#SVGID_103_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st125">
+                        <path class="st55" d="M190.3 52.9l1.4-.8c.6.6 1.1 1.2 1.7 1.7l-1.4.8-1.7-1.7"/>
+                    </g>
+                </g>
+                <path class="st126" d="M200.1 68.5l1.4-.9.1.1-1.4.9z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_105_" class="st6" d="M202.9 70l-1.4.8c-.9.5-2 .7-3.3.3l1.4-.8c1.3.4 2.4.2 3.3-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_106_">
+                        <use xlink:href="#SVGID_105_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st127">
+                        <path class="st72" d="M198.2 71.2l1.4-.8c.1 0 .2.1.3.1l-1.4.8c-.1-.1-.2-.1-.3-.1"/>
+                        <path class="st71" d="M198.5 71.2l1.4-.8c.1 0 .2 0 .3.1l-1.4.8s-.2 0-.3-.1"/>
+                        <path class="st70" d="M198.9 71.3l1.4-.8h.3l-1.4.8h-.3"/>
+                        <path class="st69" d="M199.2 71.3l1.4-.8h.4l-1.4.8h-.4"/>
+                        <path class="st68" d="M199.6 71.3l1.4-.8h.4l-1.4.8h-.4"/>
+                        <path class="st67" d="M199.9 71.3l1.4-.8c.1 0 .3 0 .4-.1l-1.4.8c-.1.1-.2.1-.4.1"/>
+                        <path class="st66" d="M200.3 71.3l1.4-.8c.2 0 .3-.1.5-.1l-1.4.8c-.1 0-.3 0-.5.1"/>
+                        <path class="st65" d="M200.9 71.1l1.4-.8c.2-.1.4-.2.7-.3l-1.4.8c-.3.1-.5.2-.7.3"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_107_" class="st6" d="M192.7 55.1l1.4-.8v.1l-1.4.8v-.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_108_">
+                        <use xlink:href="#SVGID_107_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st128">
+                        <path class="st70" d="M192.7 55.1l1.5-.8-1.5.8"/>
+                        <path class="st69" d="M192.7 55.1l1.4-.8v.1l-1.4.7c0 .1 0 0 0 0"/>
+                        <path class="st70" d="M192.7 55.2l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_109_" class="st6" d="M200.2 68.6l1.4-.8c.6.5 1.2 1.1 1.7 1.8l-1.4.8c-.6-.7-1.1-1.3-1.7-1.8z"/>
+                    </defs>
+                    <clipPath id="SVGID_110_">
+                        <use xlink:href="#SVGID_109_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st129">
+                        <path class="st53" d="M200.2 68.6l1.4-.8.3.3-1.4.8c-.2-.2-.2-.3-.3-.3"/>
+                        <path class="st54" d="M200.4 68.8l1.4-.8.4.4-1.4.8-.4-.4"/>
+                        <path class="st55" d="M200.9 69.2l1.4-.8.4.4-1.4.8c-.2-.1-.3-.2-.4-.4"/>
+                        <path class="st56" d="M201.3 69.6l1.4-.8c.1.1.2.3.4.4l-1.4.8c-.2-.1-.3-.2-.4-.4"/>
+                        <path class="st57" d="M201.6 70l1.4-.8.3.3-1.4.8c-.1 0-.2-.2-.3-.3"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_111_" class="st6" d="M203.5 69.6l-1.4.8h-.1s-.1 0-.1-.1l1.4-.8.1.1h.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_112_">
+                        <use xlink:href="#SVGID_111_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st130">
+                        <path class="st58" d="M201.9 70.4l1.4-.9-1.4.9"/>
+                        <path class="st57" d="M201.9 70.4l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M201.9 70.4l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M201.9 70.4l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M201.9 70.4l1.4-.8-1.4.8"/>
+                        <path class="st53" d="M201.9 70.4l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M201.9 70.4l1.4-.8-1.4.8"/>
+                        <path class="st51" d="M201.9 70.4l1.4-.8h.1l-1.5.8"/>
+                        <path class="st50" d="M201.9 70.4l1.5-.8-1.4.8h-.1"/>
+                        <path class="st49" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st44" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st42" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M202 70.4l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M202 70.4l1.4-.8-1.4.9v-.1"/>
+                        <path class="st72" d="M202 70.5l1.4-.9-1.4.9"/>
+                        <path class="st71" d="M202 70.5l1.4-.9-1.4.9"/>
+                        <path class="st70" d="M202 70.5l1.4-.9-1.4.9"/>
+                        <path class="st69" d="M202 70.5l1.4-.9-1.4.9"/>
+                        <path class="st68" d="M202 70.5l1.4-.9-1.4.9"/>
+                        <path class="st67" d="M202 70.5l1.4-.9h.1l-1.5.9"/>
+                        <path class="st66" d="M202 70.5l1.4-.8-1.4.8c.1-.1.1 0 0 0"/>
+                        <path class="st65" d="M202.1 70.4l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_113_" class="st6" d="M203.4 70.8l-1.4.8c.3-.2.5-.4.8-.6l1.4-.8c-.2.3-.5.5-.8.6z"/>
+                    </defs>
+                    <clipPath id="SVGID_114_">
+                        <use xlink:href="#SVGID_113_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st131">
+                        <path class="st65" d="M202.8 71.1l1.4-.8c-.2.2-.5.4-.8.6l-1.4.8c.3-.2.6-.4.8-.6"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_115_" class="st6" d="M192.7 55.2l1.4-.8c.7.6 1.3 1.1 2 1.5l-1.4.8c-.7-.4-1.3-.9-2-1.5z"/>
+                    </defs>
+                    <clipPath id="SVGID_116_">
+                        <use xlink:href="#SVGID_115_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st132">
+                        <path class="st53" d="M192.7 55.2l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M192.7 55.3l1.4-.8.3.3-1.4.8c-.1-.2-.2-.2-.3-.3"/>
+                        <path class="st51" d="M193.1 55.5l1.4-.8c.1.1.3.2.4.3l-1.4.8c-.2-.1-.3-.2-.4-.3"/>
+                        <path class="st50" d="M193.4 55.8l1.4-.8c.2.1.3.2.5.4l-1.4.8c-.1-.1-.3-.2-.5-.4"/>
+                        <path class="st49" d="M193.9 56.2l1.4-.8c.3.2.5.4.8.6l-1.4.8c-.3-.2-.5-.4-.8-.6"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_117_" class="st6" d="M195.9 61.4l1.4-.8c.2.1.4.2.6.4 1 .6 2.1 1.2 3.1 1.8l-1.4.8c-1-.6-2.1-1.2-3.1-1.8-.2-.1-.4-.3-.6-.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_118_">
+                        <use xlink:href="#SVGID_117_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st133">
+                        <path class="st46" d="M195.9 61.4l1.4-.8c.2.1.4.2.6.4 1 .6 2.1 1.2 3.1 1.8l-1.4.8c-1-.6-2.1-1.2-3.1-1.8-.2-.1-.4-.3-.6-.4"/>
+                    </g>
+                </g>
+                <path class="st63" d="M199.6 63.6l1.4-.8h.1l-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_119_" class="st6" d="M200.6 65l1.4-.8v.6c0 .9-.2 1.8-.4 2.6v.2l-1.4.8v-.2c.2-.8.4-1.6.4-2.6v-.5-.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_120_">
+                        <use xlink:href="#SVGID_119_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st134">
+                        <path class="st65" d="M200.6 65l1.4-.8-1.4.8"/>
+                        <path class="st66" d="M200.6 65l1.4-.8-1.4.8"/>
+                        <path class="st67" d="M200.6 65l1.4-.8-1.4.8"/>
+                        <path class="st68" d="M200.6 65l1.4-.8-1.4.8"/>
+                        <path class="st69" d="M200.6 65l1.4-.8-1.4.8"/>
+                        <path class="st70" d="M200.6 65l1.4-.8-1.4.8"/>
+                        <path class="st71" d="M200.6 65l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st72" d="M200.6 65.1l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M200.6 65.1l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st72" d="M200.6 65.2l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st73" d="M200.6 65.4l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st74" d="M200.5 65.7l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M200.5 65.7l1.4-.8v.4l-1.4.8v-.4"/>
+                        <path class="st72" d="M200.5 66.1l1.4-.8c0 .2 0 .4-.1.5l-1.4.8c.1-.1.1-.3.1-.5"/>
+                        <path class="st71" d="M200.5 66.6l1.4-.8c0 .2 0 .3-.1.5l-1.4.8c0-.1 0-.3.1-.5"/>
+                        <path class="st70" d="M200.4 67.1l1.4-.8c0 .2-.1.3-.1.5l-1.4.8c0-.1.1-.3.1-.5"/>
+                        <path class="st69" d="M200.3 67.6l1.4-.8c0 .2-.1.3-.1.5l-1.4.8c0-.2.1-.3.1-.5"/>
+                        <path class="st68" d="M200.2 68.1l1.4-.8v.2l-1.4.8c-.1-.1 0-.1 0-.2"/>
+                        <path class="st69" d="M200.1 68.3l1.4-.8-1.4.8"/>
+                        <path class="st70" d="M200.1 68.3l1.4-.8-1.4.8"/>
+                        <path class="st71" d="M200.1 68.3l1.4-.8v.1l-1.4.8v-.1"/>
+                        <path class="st70" d="M200.1 68.4l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_121_" class="st6" d="M201.3 62.8l-1.4.8h-.1l1.4-.8s0 .1.1 0z"/>
+                    </defs>
+                    <clipPath id="SVGID_122_">
+                        <use xlink:href="#SVGID_121_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st135">
+                        <path class="st46" d="M199.7 63.6l1.4-.8h.1l-1.5.8"/>
+                        <path class="st45" d="M199.7 63.6l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st44" d="M199.8 63.6l1.4-.8-1.4.9v-.1"/>
+                        <path class="st43" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st42" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st74" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st73" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st72" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st71" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st70" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st69" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st68" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st67" d="M199.8 63.7l1.4-.9-1.4.9"/>
+                        <path class="st66" d="M199.8 63.7l1.4-.9h.1l-1.5.9"/>
+                        <path class="st65" d="M199.8 63.7l1.5-.9-1.4.9h-.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_123_" class="st6" d="M194 53.4l1.4-.8c-.2.1-.4.3-.5.4-.3.3-.6.8-.8 1.3l-1.4.8c.2-.5.5-.9.8-1.3.2-.1.4-.3.5-.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_124_">
+                        <use xlink:href="#SVGID_123_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st136">
+                        <path class="st65" d="M194 53.4l1.4-.8c-.2.1-.4.3-.5.4-.1.1-.3.3-.4.5l-1.4.8c.1-.2.2-.3.4-.5.2-.1.4-.3.5-.4"/>
+                        <path class="st66" d="M193.1 54.3l1.4-.8c-.1.2-.2.3-.3.5l-1.4.8c.2-.2.2-.3.3-.5"/>
+                        <path class="st67" d="M192.9 54.8l1.4-.8c0 .1-.1.2-.1.3l-1.4.8c0-.1 0-.2.1-.3"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_125_" class="st6" d="M190 52l1.4-.8c1.1-.7 2.6-.7 4.3-.1.3.1.6.3.9.4l-1.4.8c-.3-.1-.6-.3-.9-.4-1.8-.6-3.2-.6-4.3.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_126_">
+                        <use xlink:href="#SVGID_125_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st137">
+                        <path class="st65" d="M190 52l1.4-.8c.2-.1.4-.2.7-.3l-1.4.8c-.3.1-.5.2-.7.3"/>
+                        <path class="st66" d="M190.6 51.7l1.4-.8c.2-.1.4-.1.6-.1l-1.4.8c-.2 0-.4 0-.6.1"/>
+                        <path class="st67" d="M191.2 51.5l1.4-.8c.1 0 .3-.1.5-.1l-1.4.8c-.2.1-.4.1-.5.1"/>
+                        <path class="st68" d="M191.6 51.5l1.4-.8h.4l-1.4.8h-.4"/>
+                        <path class="st69" d="M192 51.5l1.4-.8h.4l-1.4.8h-.4"/>
+                        <path class="st70" d="M192.4 51.5l1.4-.8h.4l-1.4.8h-.4"/>
+                        <path class="st71" d="M192.8 51.5l1.4-.8c.1 0 .2 0 .4.1l-1.4.8c-.2 0-.3-.1-.4-.1"/>
+                        <path class="st72" d="M193.1 51.6l1.4-.8c.1 0 .2 0 .4.1l-1.4.8c-.1-.1-.2-.1-.4-.1"/>
+                        <path class="st73" d="M193.5 51.7l1.4-.8c.1 0 .2.1.4.1l-1.4.8c-.2-.1-.3-.1-.4-.1"/>
+                        <path class="st74" d="M193.9 51.8l1.4-.8c.1 0 .2.1.4.1l-1.4.8c-.2-.1-.3-.1-.4-.1"/>
+                        <path class="st42" d="M194.2 51.9l1.4-.8c.1 0 .1 0 .2.1l-1.4.8c-.1-.1-.1-.1-.2-.1"/>
+                        <path class="st43" d="M194.4 51.9l1.4-.8c.1 0 .2.1.2.1l-1.4.8s-.1 0-.2-.1"/>
+                        <path class="st44" d="M194.6 52l1.4-.8c.2.1.4.2.5.2l-1.4.8c-.1 0-.3-.1-.5-.2"/>
+                    </g>
+                </g>
+                <path class="st138" d="M195.2 52.3l1.4-.8-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_127_" class="st6" d="M196.7 57.9l1.4-.8c.9.5 1.7.8 2.6 1.1l-1.4.8c-.9-.2-1.8-.6-2.6-1.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_128_">
+                        <use xlink:href="#SVGID_127_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st139">
+                        <path class="st45" d="M196.7 57.9l1.4-.8c.2.1.4.2.5.3l-1.4.8c-.2-.1-.4-.2-.5-.3"/>
+                        <path class="st44" d="M197.2 58.2l1.4-.8c.2.1.4.2.5.2l-1.4.8c-.2 0-.3-.1-.5-.2"/>
+                        <path class="st43" d="M197.7 58.5l1.4-.8c.2.1.3.1.5.2l-1.4.8c-.2-.1-.3-.2-.5-.2"/>
+                        <path class="st42" d="M198.2 58.6l1.4-.8c.1.1.3.1.4.2l-1.4.8c-.1 0-.3-.1-.4-.2"/>
+                        <path class="st74" d="M198.6 58.8l1.4-.8c.1 0 .3.1.4.1l-1.4.8c-.1 0-.3 0-.4-.1"/>
+                        <path class="st73" d="M199 58.9l1.4-.8c.1 0 .1 0 .2.1l-1.4.8c-.1 0-.1 0-.2-.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_129_" class="st6" d="M200.1 60.1l1.4-.8c0 .1 0 .2.1.3l-1.4.8c-.1-.1-.1-.2-.1-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_130_">
+                        <use xlink:href="#SVGID_129_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st140">
+                        <path class="st47" d="M200.1 60.1l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M200.1 60.2l1.4-.8v.1l-1.4.7"/>
+                        <path class="st47" d="M200.1 60.3l1.4-.8v.1l-1.4.8c.1-.1 0-.1 0-.1"/>
+                        <path class="st48" d="M200.2 60.4l1.4-.8v.1l-1.4.7"/>
+                        <path class="st49" d="M200.2 60.4l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <path class="st141" d="M200.1 60l1.4-.8v.1l-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_131_" class="st6" d="M196.6 54l1.4-.8v3.9l-1.4.8V54z"/>
+                    </defs>
+                    <clipPath id="SVGID_132_">
+                        <use xlink:href="#SVGID_131_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st142">
+                        <path class="st71" d="M196.6 54l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M196.6 54l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M196.6 54l1.4-.8v.1l-1.4.8V54"/>
+                        <path class="st74" d="M196.6 54.2l1.4-.8v1.3l-1.4.8v-1.3"/>
+                        <path class="st42" d="M196.6 55.4l1.4-.8v2.1l-1.4.8v-2.1"/>
+                        <path class="st43" d="M196.6 57.5l1.4-.8v.3l-1.4.8v-.3"/>
+                        <path class="st44" d="M196.6 57.8l1.4-.8v.1l-1.4.7"/>
+                        <path class="st45" d="M196.6 57.9l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M196.7 57.9l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M196.7 57.9l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M196.7 57.9l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M196.7 57.9l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_133_" class="st6" d="M200.2 60.4l1.4-.8c.3 1.2.4 2.3.4 3.4 0 .2 0 .3.2.4.9.5 1.7 1 2.6 1.5.1 0 .1.1.2.1l-1.4.8c-.1 0-.2-.1-.2-.1-.9-.5-1.7-1-2.6-1.5-.2-.1-.2-.2-.2-.4 0-1-.2-2.2-.4-3.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_134_">
+                        <use xlink:href="#SVGID_133_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st143">
+                        <path class="st48" d="M200.2 60.4l1.4-.8c0 .2.1.4.1.6l-1.4.8c0-.2-.1-.4-.1-.6"/>
+                        <path class="st47" d="M200.3 61l1.4-.8c0 .2.1.4.1.6l-1.4.8c0-.2-.1-.4-.1-.6"/>
+                        <path class="st46" d="M200.4 61.6l1.4-.8c0 .2.1.4.1.5l-1.4.8c-.1-.2-.1-.3-.1-.5"/>
+                        <path class="st45" d="M200.5 62.1l1.4-.8c0 .2 0 .3.1.5l-1.4.8c-.1-.1-.1-.3-.1-.5"/>
+                        <path class="st44" d="M200.5 62.6l1.4-.8v.5l-1.4.8c.1-.1 0-.3 0-.5"/>
+                        <path class="st43" d="M200.6 63.2l1.4-.8v.5l-1.4.8v-.5"/>
+                        <path class="st42" d="M200.6 63.7l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st43" d="M200.6 63.9l1.4-.8v.1l-1.4.7"/>
+                        <path class="st44" d="M200.6 64l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M200.6 64l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M200.6 64l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M200.6 64l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M200.6 64l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M200.6 64l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M200.6 64l1.4-.8-1.4.9V64"/>
+                        <path class="st51" d="M200.6 64.1l1.4-.9-1.4.9"/>
+                        <path class="st52" d="M200.6 64.1l1.4-.9v.1l-1.4.8"/>
+                        <path class="st53" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st57" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st60" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st61" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st60" d="M200.6 64.1l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M200.6 64.1l1.5-.8-1.5.8"/>
+                        <path class="st58" d="M200.6 64.1l1.5-.8-1.4.8h-.1"/>
+                        <path class="st57" d="M200.7 64.1l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M200.7 64.1l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M200.7 64.1l1.4-.8-1.4.9v-.1"/>
+                        <path class="st54" d="M200.7 64.2l1.4-.9-1.4.9"/>
+                        <path class="st53" d="M200.7 64.2l1.4-.9-1.4.9"/>
+                        <path class="st52" d="M200.7 64.2l1.4-.9v.1l-1.4.8"/>
+                        <path class="st51" d="M200.7 64.2l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M200.7 64.2l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M200.7 64.2l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M200.7 64.2l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M200.8 64.2l1.4-.8h.1l-1.5.8"/>
+                        <path class="st46" d="M200.8 64.3l1.4-.8c.9.5 1.7 1 2.6 1.5l-1.4.8c-.8-.5-1.7-1-2.6-1.5"/>
+                        <path class="st45" d="M203.4 65.8l1.4-.8s.1 0 .1.1l-1.4.8c0-.1 0-.1-.1-.1"/>
+                        <path class="st44" d="M203.6 65.8l1.4-.8h.1l-1.5.8"/>
+                        <path class="st45" d="M203.6 65.9l1.4-.9-1.4.9"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_135_" class="st6" d="M199.8 58.9l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.1-.1-.2-.1-.3z"/>
+                    </defs>
+                    <clipPath id="SVGID_136_">
+                        <use xlink:href="#SVGID_135_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st144">
+                        <path class="st51" d="M199.8 58.9l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M199.8 58.9l1.4-.8v.1l-1.4.7"/>
+                        <path class="st53" d="M199.8 58.9l1.4-.8c0 .1 0 .1.1.2l-1.4.8s-.1-.1-.1-.2"/>
+                        <path class="st52" d="M199.9 59.1l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                    </g>
+                </g>
+                <path class="st145" d="M198.3 55.2l1.4-.8v.1l-1.4.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_137_" class="st6" d="M198.3 55.3l1.4-.8c.4.6.7 1.3.9 1.9.2.5.4 1.1.5 1.6l-1.4.8c-.2-.5-.3-1.1-.5-1.6-.2-.6-.5-1.2-.9-1.9z"/>
+                    </defs>
+                    <clipPath id="SVGID_138_">
+                        <use xlink:href="#SVGID_137_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st146">
+                        <path class="st61" d="M198.3 55.3l1.4-.8s0 .1.1.1l-1.4.8-.1-.1"/>
+                        <path class="st60" d="M198.4 55.5l1.4-.8c.1.1.1.3.2.4l-1.4.8c0-.2-.1-.3-.2-.4"/>
+                        <path class="st59" d="M198.6 55.8l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.1 0-.2-.1-.3"/>
+                        <path class="st58" d="M198.8 56.1l1.4-.8c0 .1.1.2.1.2l-1.4.8c-.1-.1-.1-.1-.1-.2"/>
+                        <path class="st57" d="M198.9 56.3l1.4-.8c0 .1.1.1.1.2l-1.4.8c-.1 0-.1-.1-.1-.2"/>
+                        <path class="st56" d="M199 56.5l1.4-.8c0 .1.1.1.1.2l-1.4.8c-.1 0-.1-.1-.1-.2"/>
+                        <path class="st55" d="M199.1 56.8l1.4-.8c0 .1.1.1.1.2l-1.4.8c-.1-.1-.1-.2-.1-.2"/>
+                        <path class="st54" d="M199.1 57l1.4-.8c0 .1.1.2.1.3l-1.4.8c0-.2 0-.2-.1-.3"/>
+                        <path class="st53" d="M199.2 57.2l1.4-.8v.1c.1.2.1.3.2.5l-1.4.8c0-.2-.1-.3-.2-.6 0 .1 0 0 0 0"/>
+                        <path class="st52" d="M199.4 57.8l1.4-.8c.1.4.2.7.3 1.1l-1.4.8c0-.4-.1-.7-.3-1.1"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_139_" class="st6" d="M199.9 59.2l1.4-.8c.4.2 1.5.3 1.7.2l-1.4.8c-.2.1-1.3-.1-1.7-.2z"/>
+                    </defs>
+                    <clipPath id="SVGID_140_">
+                        <use xlink:href="#SVGID_139_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st147">
+                        <path class="st42" d="M199.9 59.2l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M199.9 59.2l1.4-.8h.1l-1.5.8c.1 0 .1 0 0 0"/>
+                        <path class="st73" d="M200 59.2l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st72" d="M200.1 59.2l1.4-.8h.2l-1.4.8c0 .1-.1.1-.2 0"/>
+                        <path class="st71" d="M200.4 59.3l1.4-.8c.1 0 .2 0 .4.1l-1.4.8c-.2-.1-.3-.1-.4-.1"/>
+                        <path class="st70" d="M200.7 59.3l1.4-.8h.4l-1.4.8c-.1.1-.2.1-.4 0"/>
+                        <path class="st69" d="M201.1 59.4l1.4-.8h.2l-1.4.8h-.2"/>
+                        <path class="st68" d="M201.4 59.4l1.4-.8h.1l-1.4.8h-.1"/>
+                        <path class="st67" d="M201.5 59.4l1.4-.8h.1l-1.5.8"/>
+                        <path class="st66" d="M201.5 59.4l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                        <path class="st65" d="M201.6 59.4l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_141_" class="st6" d="M195.2 52.3l1.4-.8c.6.3 1.1.6 1.6 1 .6.4 1.2.9 1.7 1.4 2.1 1.9 4.6 5.6 5.4 9.1.2.7.3 1.4.3 2 0 .5.1 1 0 1.5-.1 1.6-.6 3-1.5 3.8l-1.4.8c.9-.8 1.4-2.2 1.5-3.8v-1.5c0-.6-.2-1.3-.3-2-.8-3.5-3.3-7.2-5.4-9.1-.6-.5-1.1-1-1.7-1.4-.4-.3-1-.6-1.6-1z"/>
+                    </defs>
+                    <clipPath id="SVGID_142_">
+                        <use xlink:href="#SVGID_141_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st148">
+                        <path class="st46" d="M195.2 52.3l1.4-.8 1.5.9-1.4.8c-.5-.3-.9-.6-1.5-.9"/>
+                        <path class="st47" d="M196.7 53.2l1.4-.8c.1 0 .1.1.2.1s.1.1.2.1l-1.4.8c-.1 0-.1-.1-.2-.1s-.1-.1-.2-.1"/>
+                        <path class="st48" d="M197 53.4l1.4-.8c.1 0 .1.1.2.1l-1.4.8s-.1-.1-.2-.1"/>
+                        <path class="st49" d="M197.2 53.5l1.4-.8c.1 0 .1.1.2.1l-1.4.8s-.1 0-.2-.1"/>
+                        <path class="st50" d="M197.4 53.7l1.4-.8c.1.1.2.1.2.2l-1.4.8c0-.1-.1-.2-.2-.2"/>
+                        <path class="st51" d="M197.7 53.8l1.4-.8c.1.1.2.2.3.2l-1.4.8c-.1 0-.2-.1-.3-.2"/>
+                        <path class="st52" d="M198 54.1l1.4-.8c.2.1.3.3.5.4l-1.4.8c-.2-.2-.4-.3-.5-.4"/>
+                        <path class="st53" d="M198.4 54.5l1.4-.8.2.2c.1.1.2.2.3.2l-1.4.8c-.1-.1-.2-.2-.3-.2 0-.1-.1-.2-.2-.2"/>
+                        <path class="st54" d="M198.9 54.9l1.4-.8.3.3-1.4.8-.3-.3"/>
+                        <path class="st55" d="M199.2 55.2l1.4-.8.3.3-1.4.8-.3-.3"/>
+                        <path class="st56" d="M199.4 55.5l1.4-.8.3.3-1.4.8-.3-.3"/>
+                        <path class="st57" d="M199.7 55.8l1.4-.8c.1.1.2.2.3.4l-1.4.8c-.1-.2-.2-.3-.3-.4"/>
+                        <path class="st58" d="M200 56.2l1.4-.8c.1.1.2.3.3.4l-1.4.8c0-.2-.1-.3-.3-.4"/>
+                        <path class="st59" d="M200.4 56.6l1.4-.8c.1.2.2.3.4.5l-1.4.8c-.2-.2-.3-.4-.4-.5"/>
+                        <path class="st60" d="M200.7 57l1.4-.8c.2.2.3.5.5.7l-1.4.8c-.1-.2-.3-.4-.5-.7"/>
+                        <path class="st61" d="M201.2 57.8l1.4-.8c.3.4.5.8.8 1.2l-1.4.8c-.2-.4-.5-.8-.8-1.2"/>
+                        <path class="st60" d="M202 59l1.4-.8c.1.2.3.5.4.7l-1.4.8c-.1-.2-.2-.5-.4-.7"/>
+                        <path class="st59" d="M202.4 59.7l1.4-.8c.1.2.2.3.3.5l-1.4.8c-.1-.1-.2-.3-.3-.5"/>
+                        <path class="st58" d="M202.7 60.2l1.4-.8c.1.1.1.3.2.4l-1.4.8c-.1-.1-.1-.2-.2-.4"/>
+                        <path class="st57" d="M202.9 60.7l1.4-.8c.1.1.1.3.2.4l-1.4.8c-.1-.2-.2-.3-.2-.4"/>
+                        <path class="st56" d="M203.1 61l1.4-.8c.1.1.1.2.2.4l-1.4.8c-.1-.1-.2-.2-.2-.4"/>
+                        <path class="st55" d="M203.2 61.4l1.4-.8c.1.1.1.2.1.4l-1.4.8c0-.1 0-.3-.1-.4"/>
+                        <path class="st54" d="M203.4 61.8l1.4-.8c0 .1.1.2.1.4l-1.4.8c0-.2-.1-.3-.1-.4"/>
+                        <path class="st53" d="M203.5 62.1l1.4-.8c0 .1.1.2.1.4l-1.4.8c0-.1 0-.2-.1-.4"/>
+                        <path class="st52" d="M203.6 62.5l1.4-.8c0 .1.1.2.1.4l-1.4.8c0-.1 0-.3-.1-.4"/>
+                        <path class="st51" d="M203.8 62.9l1.4-.8c0 .1.1.2.1.4l-1.4.8c-.1-.2-.1-.3-.1-.4"/>
+                        <path class="st50" d="M203.9 63.3l1.4-.8c0 .1.1.2.1.4l-1.4.8c-.1-.2-.1-.3-.1-.4"/>
+                        <path class="st49" d="M204 63.6l1.4-.8v.4l-1.4.8v-.2-.2"/>
+                        <path class="st48" d="M204 63.9l1.4-.8c0 .2.1.3.1.5l-1.4.8c0-.1 0-.3-.1-.5"/>
+                        <path class="st47" d="M204.1 64.4l1.4-.8c0 .1 0 .3.1.4l-1.4.8c0-.1 0-.3-.1-.4"/>
+                        <path class="st46" d="M204.2 64.8l1.4-.8c0 .1 0 .2.1.4l-1.4.8c-.1-.1-.1-.3-.1-.4"/>
+                        <path class="st45" d="M204.3 65.2l1.4-.8v.3l-1.4.8v-.3"/>
+                        <path class="st44" d="M204.3 65.5l1.4-.8v.3l-1.4.8v-.3"/>
+                        <path class="st43" d="M204.3 65.8l1.4-.8v.8l-1.4.8c.1-.2 0-.5 0-.8"/>
+                        <path class="st42" d="M204.4 66.6l1.4-.8v.3l-1.4.8v-.3"/>
+                        <path class="st74" d="M204.4 66.9l1.4-.8v.2l-1.4.8v-.2"/>
+                        <path class="st73" d="M204.4 67.1l1.4-.8v.2l-1.4.8v-.1-.1"/>
+                        <path class="st72" d="M204.3 67.4l1.4-.8v.4l-1.4.8v-.4"/>
+                        <path class="st71" d="M204.3 67.8l1.4-.8c0 .1 0 .3-.1.4l-1.4.8c.1-.2.1-.3.1-.4"/>
+                        <path class="st70" d="M204.2 68.2l1.4-.8c0 .1-.1.3-.1.4l-1.4.8c.1-.2.1-.3.1-.4"/>
+                        <path class="st69" d="M204.2 68.6l1.4-.8c0 .1-.1.3-.1.4l-1.4.8c0-.2 0-.3.1-.4"/>
+                        <path class="st68" d="M204.1 69l1.4-.8c0 .1-.1.3-.1.4l-1.4.8c0-.1 0-.3.1-.4"/>
+                        <path class="st67" d="M203.9 69.4l1.4-.8c-.1.1-.1.3-.2.4l-1.4.8c.1-.1.2-.3.2-.4"/>
+                        <path class="st66" d="M203.7 69.8l1.4-.8c-.1.2-.2.3-.3.5l-1.4.8c.2-.2.3-.3.3-.5"/>
+                        <path class="st65" d="M203.5 70.3l1.4-.8c-.2.3-.4.6-.7.8l-1.4.8c.3-.3.5-.5.7-.8"/>
+                    </g>
+                </g>
+                <path class="st82" d="M202.8 71.1c-1.3 1.2-3 1.5-5.1.8-.6-.2-1.1-.5-1.7-.8-.1-.1-.2-.1-.3-.1-.2-.1-.3-.2-.5-.3-.1-.1-.2-.1-.2-.2-.2-.1-.3-.2-.5-.3-2.9-2.2-4.9-5.2-6.2-8.9-.4-1.1-.6-2.1-.6-3.2 0-.5-.1-1 0-1.5.1-1.4.4-2.6 1.1-3.4 1.3-1.6 3.1-2.1 5.5-1.2.3.1.6.3.9.4h.1c.6.3 1.1.6 1.6 1 .6.4 1.2.9 1.7 1.4 2.1 1.9 4.6 5.6 5.4 9.1.2.7.3 1.4.3 2 0 .5.1 1 0 1.5-.1 1.5-.6 2.8-1.5 3.7zm-7.5-13.2c-.1-.1-.2-.1-.3-.2-.8-.5-1.7-1.2-2.5-1.8 0 .1-.1.1-.1.2-.3.9-.4 1.9-.4 2.9 0 .2 0 .3.2.4 1.1.7 2.3 1.3 3.4 2 .1 0 .1.1.2.1.2.1.4.2.6.4 1 .6 2.1 1.2 3.1 1.8l.1.1c.1.1.2 0 .2-.1v-.9c-.1-.8-.2-1.7-.4-2.6V60c-.1 0-.2-.1-.2-.1l-1.5-.6c-.6-.2-1.1-.5-1.7-.8-.1 0-.1-.1-.2-.1-.1-.1-.2-.1-.3-.2-.1-.2-.1-.2-.2-.3 0 .1 0 0 0 0m.8 7.6c.1.1.2.1.3.2.9.6 1.9 1.3 2.8 2 .1 0 .1.1.1.1.1.1.1 0 .2-.1.2-.8.4-1.6.4-2.5v-.6l-4.2-2.4-3.6-2.1v.2c0 1.1.2 2.2.4 3.4 0 .1.1.2.1.2s.1 0 .1.1c.3.1.7.2 1 .4.5.2.9.4 1.4.6h.1c.3.2.6.3.9.5m7.4 2.3c.1-.3.1-.7.1-1.1-.1-.1-.2-.1-.3-.2l-2.1-1.2c-.1-.1-.2-.1-.3-.2-.1 0-.1-.1-.2-.1-.2-.1-.2-.1-.2.1v.5c0 .9-.2 1.8-.4 2.6v.2l.1.1c.6.5 1.2 1.1 1.7 1.8l.1.1h.2c.6-.6 1.1-1.4 1.3-2.6m-13.6-4.3h.2c.5 0 .9.1 1.4.1.1 0 .2 0 .2.1.1 0 .1 0 .1-.1v-.2c-.3-1.2-.4-2.4-.4-3.6 0-.2 0-.2-.2-.3-.3-.2-.6-.3-.9-.5-.6-.3-1.2-.7-1.8-1h-.1c0 1.7.5 3.5 1.5 5.5m-1.5-7.3c0 .2-.1.5-.1.8.1.1.2.1.3.2.8.5 1.6.9 2.5 1.4l.2.1c.1.1.1 0 .1-.1v-.2c0-1.1.2-2.1.5-3 .1-.2.1-.2-.1-.4-.5-.5-1-1-1.5-1.6-.1-.1-.1-.2-.2-.2s-.1 0-.2.1c-.9.7-1.3 1.6-1.5 2.9m13.6 4.1h-.2c-.5 0-1-.1-1.5-.2h-.2v.1c0 .1 0 .2.1.3.3 1.2.4 2.3.4 3.4 0 .2 0 .3.2.4.9.5 1.7 1 2.6 1.5.1 0 .1.1.2.1v-.4c-.1-1.6-.6-3.2-1.4-4.9-.1-.2-.1-.3-.2-.3m-5.4-6.3v3.9c.9.5 1.7.8 2.6 1.1v-.1c-.3-1.1-.7-2.1-1.3-3.2-.3-.6-.7-1.1-1.1-1.6l-.2-.1m1.6 17.2c1.3.3 2.4.2 3.4-.4-.5-.6-1.1-1.2-1.6-1.7h-.1c-.1.1-.1.2-.2.3-.4.8-.8 1.4-1.5 1.8m-4.5-18.7c-1.3-.3-2.4-.2-3.3.4.6.6 1.1 1.2 1.7 1.7.1-.2.2-.5.3-.7.1-.2.2-.4.4-.6.1-.2.3-.3.4-.5.1 0 .3-.1.5-.3m2.9 18h.3c.5 0 .9-.1 1.2-.4.4-.3.6-.7.9-1.2.1-.1.1-.3.2-.4-.3-.4-1.7-1.4-2.3-1.7-.1-.1-.2-.1-.2-.1-.1.2-.1 3.6-.1 3.8m5-11.1c-.9-1.6-2-3-3.3-4.2l.1.1c.4.6.7 1.3.9 1.9.2.5.4 1.1.5 1.6 0 .1.1.2.1.3.4.2 1.5.4 1.7.3m-11.2 5c.9 1.6 2 3 3.3 4.1l-.1-.1c-.2-.4-.5-.9-.7-1.3-.3-.7-.6-1.5-.8-2.2 0-.2-.1-.2-.1-.3h-.1c-.5-.1-.9-.2-1.4-.2h-.1m4.3-11.2c-.5.1-.9.3-1.2.6-.3.3-.6.8-.8 1.3v.1c.7.6 1.3 1.1 2 1.5v-1.9-1.6m-1.1 14.2c.3.6.6 1.2 1 1.7v-3.6c-.7-.3-1.3-.6-2-.8v.2c.4.8.6 1.6 1 2.5"/>
+            </g>
+            <g class="st6">
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_143_" class="st6" d="M177.3 70.8l1.4-.8c.1.2.2.3.4.4l-1.4.8c-.2-.1-.3-.2-.4-.4z"/>
+                    </defs>
+                    <clipPath id="SVGID_144_">
+                        <use xlink:href="#SVGID_143_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st149">
+                        <path class="st60" d="M177.3 70.8l1.4-.8-1.4.8"/>
+                        <path class="st61" d="M177.3 70.8l1.4-.8v.1l-1.4.7c0 .1 0 0 0 0"/>
+                        <path class="st60" d="M177.3 70.9l1.4-.8-1.4.8"/>
+                        <path class="st59" d="M177.4 70.9l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M177.4 70.9l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st57" d="M177.4 71l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M177.4 71l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M177.4 71l1.4-.8-1.4.8"/>
+                        <path class="st54" d="M177.5 71l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st53" d="M177.5 71.1l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M177.5 71.1l1.4-.8-1.4.8"/>
+                        <path class="st51" d="M177.5 71.1l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st50" d="M177.6 71.1l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st49" d="M177.6 71.2l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M177.6 71.2l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st47" d="M177.7 71.2l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M177.7 71.2l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_145_" class="st6" d="M177.1 70.3l1.4-.8c0 .2 0 .4.1.6l-1.4.8c0-.2-.1-.4-.1-.6z"/>
+                    </defs>
+                    <clipPath id="SVGID_146_">
+                        <use xlink:href="#SVGID_145_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st150">
+                        <path class="st42" d="M177.1 70.3l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M177.1 70.3l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                        <path class="st44" d="M177.2 70.3l1.4-.8-1.4.8c0 .1 0 .1 0 0"/>
+                        <path class="st45" d="M177.2 70.4l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M177.2 70.4l1.4-.8-1.4.8"/>
+                        <path class="st47" d="M177.2 70.5l1.4-.8-1.4.8"/>
+                        <path class="st48" d="M177.2 70.5l1.4-.8-1.4.8"/>
+                        <path class="st49" d="M177.2 70.5l1.4-.8-1.4.8"/>
+                        <path class="st50" d="M177.2 70.6l1.4-.8-1.4.8"/>
+                        <path class="st51" d="M177.2 70.6l1.4-.8-1.4.8"/>
+                        <path class="st52" d="M177.2 70.6l1.4-.8-1.4.8"/>
+                        <path class="st53" d="M177.2 70.6l1.4-.8-1.4.8c0 .1 0 0 0 0"/>
+                        <path class="st54" d="M177.2 70.7l1.4-.8-1.4.8"/>
+                        <path class="st55" d="M177.2 70.7l1.4-.8-1.4.8"/>
+                        <path class="st56" d="M177.2 70.7l1.4-.8-1.4.8"/>
+                        <path class="st57" d="M177.2 70.7l1.4-.8-1.4.8"/>
+                        <path class="st58" d="M177.2 70.7l1.4-.8-1.4.8c.1.1.1 0 0 0"/>
+                        <path class="st59" d="M177.3 70.8l1.4-.8-1.4.8"/>
+                        <path class="st60" d="M177.3 70.8l1.4-.8-1.4.8"/>
+                        <path class="st61" d="M177.3 70.8l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <path class="st62" d="M177.2 65.2l1.4-.9v5.1l-1.5.9z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_147_" class="st6" d="M176 63.1l1.4-.8h.2l-1.4.8c-.1-.1-.2-.1-.2 0z"/>
+                    </defs>
+                    <clipPath id="SVGID_148_">
+                        <use xlink:href="#SVGID_147_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st151">
+                        <path class="st65" d="M176 63.1l1.4-.8-1.4.8c0-.1 0-.1 0 0"/>
+                        <path class="st66" d="M176 63l1.4-.8-1.4.8"/>
+                        <path class="st67" d="M176.1 63l1.4-.8-1.4.8"/>
+                        <path class="st68" d="M176.1 63l1.4-.8-1.4.8"/>
+                        <path class="st69" d="M176.1 63l1.4-.8-1.4.8"/>
+                        <path class="st70" d="M176.1 63l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                        <path class="st71" d="M176.2 63l1.4-.8-1.4.8"/>
+                    </g>
+                </g>
+                <path class="st62" d="M182.8 74.2l1.5-.8V75l-1.5.8z"/>
+                <path class="st63" d="M177.7 71.2l1.4-.8 5.2 3-1.5.8z"/>
+                <g class="st6">
+                    <defs>
+                        <path id="SVGID_149_" class="st6" d="M176.2 63l1.4-.8c.1 0 .2 0 .3.1l-1.4.8c-.1 0-.2-.1-.3-.1z"/>
+                    </defs>
+                    <clipPath id="SVGID_150_">
+                        <use xlink:href="#SVGID_149_" overflow="visible"/>
+                    </clipPath>
+                    <g class="st152">
+                        <path class="st70" d="M176.2 63l1.4-.8-1.4.8"/>
+                        <path class="st71" d="M176.2 63l1.4-.8-1.4.8"/>
+                        <path class="st72" d="M176.2 63l1.4-.8-1.4.8"/>
+                        <path class="st73" d="M176.3 63l1.4-.8-1.4.8"/>
+                        <path class="st74" d="M176.3 63l1.4-.8-1.4.8"/>
+                        <path class="st42" d="M176.3 63.1l1.4-.8-1.4.8"/>
+                        <path class="st43" d="M176.3 63.1l1.4-.8-1.4.8c.1 0 .1 0 0 0"/>
+                        <path class="st44" d="M176.4 63.1l1.4-.8-1.4.8"/>
+                        <path class="st45" d="M176.4 63.1l1.4-.8-1.4.8"/>
+                        <path class="st46" d="M176.4 63.1l1.4-.8-1.4.8c.1 0 0 0 0 0"/>
+                    </g>
+                </g>
+                <path class="st63" d="M177.7 67.5l1.4-.8 4.5 2.6-1.4.8z"/>
+                <path class="st62" d="M182.2 70.1l1.4-.8V71l-1.4.8z"/>
+                <path class="st82" d="M182.2 71.8l-4.5-2.6v-1.7l4.5 2.6z"/>
+                <path class="st82" d="M176.2 63c.1 0 .2 0 .3.1l6.4 3.7v1.6l-5.7-3.3v5.1c0 .2 0 .4.1.6.1.2.2.3.4.4l5.1 3v1.6l-5.1-3c-.2-.1-.4-.3-.6-.5-.2-.2-.5-.5-.7-.8-.2-.3-.4-.6-.5-1-.1-.4-.2-.8-.2-1.2v-5.9c0-.1 0-.2.1-.3 0-.1.1-.1.2-.2 0 .1.1.1.2.1z"/>
+                <path class="st62" d="M182.9 66.8l1.4-.8v1.6l-1.4.9z"/>
+                <path class="st63" d="M176.5 63.1l1.4-.8 6.4 3.7-1.4.8z"/>
+            </g>
+        </g>
+    </g>
+</svg>

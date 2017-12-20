@@ -1,0 +1,208 @@
+.steps
+	background-color: #69d6f5
+	&__wrapper
+		height: 100%
+	&__container
+		position: relative
+		height: 100%
+		div
+			background-repeat: no-repeat
+	&__train
+		position: absolute
+		right: 0
+		top: 90px
+		width: 690px
+		height: 450px
+		background-size: 300px
+		border-radius: 30px
+		animation: railway 10s infinite linear
+	&__metro
+		float: right
+		margin-right: -10px
+		height: 710px
+		width: 1200px
+		background-size: 950px
+		background-position: 510px 115px, left 0
+		position: relative
+		.icon
+			position: absolute
+			top: 12%
+			left: 0
+			font-size: 220px
+			fill: #fff
+	//&__line
+	//	height: 100%
+	//	background-size: 310px
+	//	background-position: 40% 54%
+	&__steps
+		width: 950px
+		height: 500px
+		//background-color: rgba(0,0,0,0.5)
+		position: absolute
+		top: 180px
+		left: 0px
+		//transform: rotate(30deg)
+	&__numbers
+		display: block
+		height: 100%
+		z-index: 10
+		position: relative
+		li
+			position: absolute
+			width: 48px
+			height: 30px
+			text-align: center
+			color: #fff
+			padding-top: 1px
+			font-size: 20px
+			font-family: $GothamProBold
+			text-shadow: 0 0 10px rgba(0,0,0,0.5)
+			opacity: 0
+			span
+				position: relative
+				display: inline-block
+				width: 100%
+				height: 100%
+				background-image: url("../img/punkt.svg")
+				background-repeat: no-repeat
+				background-position: center center
+			&::after
+				position: absolute
+				content: ''
+				height: 10px
+				background-color: #fff
+				border-radius: 6px
+				z-index: -2!important
+			&:first-child
+				left: 440px
+				top: 14px
+				&::after
+					left: 0
+					bottom: -20px
+					width: 130px
+					transform: rotate(30deg)
+			&:nth-child(2)
+				left: 534px
+				top: 72px
+				&::after
+					left: -90px
+					bottom: -24px
+					width: 130px
+					transform: rotate(-30deg)
+			&:nth-child(3)
+				left: 434px
+				top: 134px
+				&::after
+					left: -80px
+					bottom: -19px
+					width: 115px
+					transform: rotate(-30deg)
+			&:nth-child(4)
+				left: 345px
+				top: 186px
+				&::after
+					left: 5px
+					bottom: -25px
+					width: 125px
+					transform: rotate(30deg)
+			&:nth-child(5)
+				left: 444px
+				top: 244px
+				&::after
+					left: 7px
+					top: -11px
+					width: 115px
+					transform: rotate(-30deg)
+			&:nth-child(6)
+				left: 526px
+				top: 200px
+				&::after
+					left: 17px
+					bottom: -17px
+					width: 130px
+					transform: rotate(30deg)
+	&__finish
+		position: absolute
+		width: 300px
+		height: 90px
+		text-align: center
+		background-color: #FFF
+		border-radius: 6px
+		font-family: $GothamProLight
+		bottom: 60px
+		left: 53%
+		opacity: 0
+		div
+			margin-top: -40px
+			margin-bottom: 5px
+			color: #fff
+			font-size: 42px
+			text-transform: uppercase
+			font-family: $GothamProBold
+			position: relative
+			&::before
+				position: absolute
+				content: ''
+				width: 12px
+				background-color: #fff
+				height: 90px
+				top: -42px
+				left: 50%
+				border-radius: 6px
+		span
+			font-family: $GothamProMedium
+	&__text-container
+		position: relative
+		height: 100%
+		width: 100%
+		p
+			position: absolute
+			color: #fff
+			font-family: $GothamProMedium
+			font-size: 18px
+			letter-spacing: 2px
+			transition: all 1s ease
+			opacity: 0
+			&:first-child
+				left: 145px
+				top: 105px
+				transform: rotate(-30deg) rotateX(-10deg) skew(-5deg)
+			&:nth-child(2)
+				transform: rotate(30deg) rotateX(10deg) skew(-15deg)
+				right: 85px
+				top: 150px
+				//text-shadow: 1px 0px #9caaae, 0px 1px #9caaae, 2px 1px #9caaae, 1px 2px #9caaae, 3px 2px #9caaae, 2px 3px #9caaae, 0 5px 20px #000
+			&:nth-child(3)
+				text-align: right
+				left: 70px
+				top: 180px
+				transform: rotate(-30deg) rotateX(-10deg) skew(-5deg)
+			&:nth-child(4)
+				text-align: left
+				left: 310px
+				top: 230px
+				transform: rotate(30deg) rotateX(-10deg) skew(-20deg)
+				//text-shadow: 1px 0px #9caaae, 0px 1px #9caaae, 2px 1px #9caaae, 1px 2px #9caaae, 3px 2px #9caaae, 2px 3px #9caaae, 0 5px 20px #000
+			&:nth-child(5)
+				text-align: right
+				left: 270px
+				bottom: 120px
+				transform: rotate(-30deg) rotateX(-10deg) skew(-5deg)
+			&:nth-child(6)
+				transform: rotate(30deg) rotateX(10deg) skew(-15deg)
+				right: 140px
+				top: 220px
+				//text-shadow: 1px 0px #9caaae, 0px 1px #9caaae, 2px 1px #9caaae, 1px 2px #9caaae, 3px 2px #9caaae, 2px 3px #9caaae, 0 5px 20px #000
+					
+
+@keyframes railway
+	0%
+		background-position: -300px -180px
+	50%
+		background-position: 700px 400px
+	100%
+		background-position: 700px 400px
+
+.steps__text-container
+	p
+  	text-shadow: 0 5px 20px #000

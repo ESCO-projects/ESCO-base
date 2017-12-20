@@ -1,0 +1,147 @@
+.train
+	background-color: #9a8b9e
+	position: relative
+	&::before
+		position: absolute
+		content: ''
+		width: 100%
+		height: 20%
+		background-color: #8f7a8f
+		left: 0
+		bottom: 0
+	&__title
+		font-size: 46px
+		color: #fff
+		text-align: center
+		font-family: $GothamProRegular
+		margin-bottom: 30px
+		span
+			font-family: $GothamProMedium
+	&__container
+		position: relative
+		min-height: 480px
+	&__windows
+		position: absolute
+		z-index: 0
+		width: 100%
+		height: 60%
+		left: 0
+		top: 17%
+		text-align: center
+		div
+			display: inline-block
+			width: 11%
+			height: 100%
+			background-color: #c1b5c4
+			border-radius: 15px
+			margin-right: 5%
+			&:last-child
+				margin-right: 0
+
+.train
+	&__people
+		position: absolute
+		top: 0
+		left: 0
+		width: 100%
+		height: 100%
+		z-index: 2
+	&__people__parallax
+		position: relative
+		height: 100%
+		width: 100%
+		div
+			position: absolute
+			left: 0!important
+			width: 100%
+			height: 100%
+			background-repeat: no-repeat
+	&__girl1
+		z-index: 3
+		background-position: 40% top
+	&__girl2
+		z-index: 2
+		background-position: 60% top
+	&__men
+		top: 21px!important
+		z-index: 4
+		background-position: center top
+
+.train
+	&__clouds
+		top: 50px
+		min-height: 600px
+		position: relative
+		+rh(700)
+			min-height: 480px
+		&__container
+			max-width: 1300px
+			margin: 0 auto
+		div
+			position: absolute
+			z-index: 20
+			background-color: #FFF
+			border-radius: 50%
+			padding: 30px 20px
+			font-family: $GothamProLight
+			text-align: center
+			color: #000
+			font-size: 18px
+			box-shadow: 0 0 0 6px #b4a9b7
+			opacity: 0
+			transform: scale(0)
+		.cloud1
+			left: 17%
+			top: 0
+		.cloud2
+			left: 7%
+			top: 17%
+		.cloud3
+			left: 14%
+			top: 40%
+		.cloud4
+			top: 64%
+			left: 22%
+		.cloud5
+			top: 64%
+			right: 22%
+		.cloud6
+			right: 14%
+			top: 40%
+		.cloud7
+			right: 7%
+			top: 17%
+		.cloud8
+			right: 17%
+			top: 0
+		.cloud9
+			right: 50%
+			margin-right: -6%
+			bottom: 13%
+
+.train
+	&__button
+		border-color: #c9bf4d!important
+		box-shadow: inset 0 0 0 4px #dfd565
+		background-color: #dbd053
+		color: #000
+		font-family: $GothamProRegular
+		padding: 18px 40px
+		margin: 0 auto
+		display: block
+		width: 270px
+		position: relative
+		z-index: 15
+		text-align: center
+	&__track
+		position: absolute
+		height: 11px
+		width: 100%
+		left: 0
+	.track1
+		top: 0
+		background-color: #ada0b0
+		box-shadow: 0 0 0 1px #a193a5
+	.track2
+		top: 24px
+		background-image: url("../img/track.svg")

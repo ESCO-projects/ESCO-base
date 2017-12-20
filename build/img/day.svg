@@ -1,0 +1,10 @@
+<svg id="Day" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 900">
+    <style>
+        .st0{fill:url(#SVGID_1_)}
+    </style>
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1=".355" y1="840.095" x2=".614" y2="839.129" gradientTransform="matrix(1920 0 0 -899.999 0 755999.188)">
+        <stop offset="0" stop-color="#006aca"/>
+        <stop offset="1" stop-color="#a1efe9"/>
+    </linearGradient>
+    <path class="st0" d="M0 0h1920v840s-336.5-60.7-727.7-31.4C959.4 826.1 707.2 900 495 900 211.9 900 0 800 0 800V0z"/>
+</svg>

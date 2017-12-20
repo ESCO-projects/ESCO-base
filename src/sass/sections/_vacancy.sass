@@ -1,0 +1,261 @@
+#particles-js
+	position: absolute
+	left: 0
+	top: 0
+	height: 100%
+	width: 100%
+	user-select: none
+	opacity: 0
+	+r(1200)
+		display: none
+.vacancy
+	position: relative
+	.container
+		min-height: 700px
+		padding: 150px 15px 100px
+		+r(767)
+			padding: 50px 15px
+	&__top
+		max-width: 800px
+		margin: 0 auto
+		position: relative
+		h3
+			font-size: 36px
+			color: #000
+			font-family: $GothamProLight
+			margin-bottom: 60px
+			position: relative
+			user-select: none
+			+r(991)
+				font-size: 30px
+			+r(767)
+				font-size: 24px
+			+r(480)
+				br
+					display: none
+			&::after,&::before
+				position: absolute
+				content: ''
+				right: 40%
+			&::after
+				bottom: -20px
+				width: 10px
+				height: 10px
+				background-color: #ffbf37
+			&::before
+				height: 1px
+				width: 60%
+				bottom: -16px
+				background-color: rgba(0,0,0,0.1)
+			span
+				font-family: $GothamProMedium
+		&__icon
+			position: absolute
+			right: 0
+			top: -15px
+			width: 140px
+			height: 120px
+			+r(991)
+				right: 50px
+				width: 120px
+			+r(767)
+				display: none
+		.icon_container
+			position: relative
+			height: 100%
+			width: 100%
+			text-align: center
+			.icon
+				position: absolute
+				font-size: 15px
+				opacity: 0
+				transform: scale(0)
+			.icon-chel
+				fill: $mainColor
+				font-size: 100px
+				left: 30px
+				top: 15px
+				opacity: 1!important
+				transform: scale(1)!important
+			.icon-fxa
+				fill: #6d7188
+				left: 5px
+				top: -15px
+			.icon-fxb
+				fill: #6d7188
+				right: 10px
+				top: 10px
+			.icon-fxc
+				fill: #dde4fb
+				left: 15px
+				top: 40px
+			.icon-fxd
+				fill: #dde4fb
+				right: 45px
+				top: -10px
+			.icon-fxf
+				fill: #dde4fb
+				left: 0
+				bottom: 10px
+			.icon-fxs
+				fill: #dde4fb
+				right: -5px
+				top: 70px
+		&__buttons
+			+r(991)
+				max-width: 450px
+				a,a:first-child
+					margin: 10px auto
+			+r(480)
+				a
+					margin: 20px auto
+					display: block
+					max-width: 320px
+				a:first-child
+					padding: 5px 20px 0 60px
+					text-align: center
+					br
+						display: block
+
+			+r(360)
+				a:first-child
+					padding: 5px 15px 0 40px
+				a:last-child
+					padding: 15px 15px 20px 70px
+			a
+				display: inline-block
+				padding: 15px 20px 20px 80px
+				font-size: 20px
+				text-align: center
+				color: #000
+				position: relative
+				user-select: none
+				br
+					display: none
+				.par_0
+					position: absolute
+					width: 100%
+					height: 100%
+					bottom: -10px
+					right: -10px
+					z-index: -1
+					div
+						width: 100%
+						height: 100%
+						border: 1px solid #e3e3e3
+						border-radius: 30px
+				.icon
+					position: absolute
+					left: 23px
+				.icon-eye
+					top: 17px
+				.icon-pensil
+					top: 13px
+					font-size: 28px
+				&:first-child
+					border-color: #c9bf4d
+					margin-right: 25px
+					background-color: $buttonColor
+				&:last-child
+					border-color: #fe7f2d
+					.mask
+						transition: all 2s cubic-bezier(0.19, 1, 0.22, 1)
+						background: #fe7f2d
+
+.vacancy
+	&__list
+		max-width: 100%
+		margin: 120px auto 0
+		padding: 0 15px
+		text-align: center
+		+r(1140)
+			max-width: 700px
+		+rh(700)
+			margin: 60px auto 0
+	&__item
+		display: inline-block
+		position: relative
+		margin-right: 150px
+		opacity: 0
+		transform: translateY(100%) scale(0.3)
+		vertical-align: top
+		+r(1140)
+			margin: 0 50px 50px
+			&:last-child
+				margin: 0 50px 50px
+		&:hover
+			.vacancy__item__desr
+				transform: translateY(-20px)
+			.icon
+				fill: #000
+		+r(1400)
+			margin-right: 100px
+		+r(1250)
+			margin-right: 50px
+		&:last-child
+			margin-right: 0
+		&__number
+			width: 54px
+			height: 54px
+			position: absolute
+			right: 0
+			top: 0
+			border-radius: 50%
+			background-color: $mainColor
+			font-size: 24px
+			color: #fff
+			font-family: $GothamProMedium
+			padding-top: 12px
+			z-index: 2
+		&__icon
+			width: 180px
+			height: 180px
+			padding-top: 50px
+			margin: 0 auto
+			background-color: #FFF
+			border-radius: 50%
+			box-shadow: 0 0 50px 0 rgba(0,0,0,0.3)
+			position: relative
+			transition: all 0.2s ease
+			.icon
+				transition: all 0.3s ease
+				fill: $mainColor
+				font-size: 85px
+				filter: drop-shadow( 0px 6px 2px rgba(0,0,0,0.16) )
+		&__desr
+			margin-top: 45px
+			font-size: 18px
+			font-family: $GothamProMedium
+			color: #000
+			transition: transform 0.3s ease
+		&__circle
+			position: absolute
+			width: 100%
+			height: 100%
+			z-index: -1
+			div
+				width: 100%
+				height: 100%
+				border-radius: 50%
+				border: 1px #dbd053
+			div.dashed
+				border-style: dashed
+			div.solid
+				border-style: solid
+		&__circle.par_1
+			left: -10px
+			top: 10px
+		&__circle.par_2
+			left: -10px
+			top: -10px
+		&__circle.par_3
+			right: -10px
+			top: 10px
+		&__circle.par_4
+			right: -10px
+			top: -10px
+
+
+
+
+

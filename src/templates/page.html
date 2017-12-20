@@ -1,27 +1,63 @@
 ---
-title: Index page
+title: ESCO team
+
+headerBG: img/header.svg
+UnderheaderBG: img/under_header.svg
+logoBG: img/logo_bg.svg
+fix_nav_logo: img/fix_nav_logo.svg
+logo: img/logo.svg
+descrLogoBG: img/logo_descr_bg.svg
+nightBG: img/night.svg
+dayBG: img/day.svg
+city_nightBG: img/city_night.svg
+city_dayBG: img/city_day.svg
+line_bg: img/line_bg.svg
+moon: img/moon.svg
+step_line: img/step_line.svg
+step_line2: img/step_line2.svg
+road: img/road.svg
+car: img/car.svg
+wheel: img/whel.svg
+city1: img/c1.svg
+city2: img/c2.svg
+city3: img/c3.svg
+city4: img/c4.svg
+city5: img/c5.svg
+boys: img/boys.svg
+metro: img/metro.svg
+walk: img/walk.png
+train_girl1: img/people1.svg
+train_girl2: img/people2.svg
+train_men: img/people3.svg
+stepBG: img/c.png
+rails: img/rails.png
+train: img/train.svg
+shema: img/shema.svg
+office_esco: img/office_esco.svg
+slide1: img/1.jpg
+slide2: img/2.jpg
+slide3: img/3.jpg
+slide4: img/4.png
+slide5: img/5.jpg
+photoBG: img/photoBG.svg
+modalBG: img/modal.jpg
 ---
 {% extends "layouts/_layout.html" %}
 
 {% block content %}
-	
-	{# variable example #}
-	<h1>{{title}}</h1>
 
-	
-	{# partial example #}
-	{% include "partials/_header.html" %}
-
-	{# mixin example #}
-	{{mixins.icon('facebook')}}
-
-
-	{# data usage example #}
-		{% import "data/data.html" as tests %}
-		
-		{% for test in tests.list %}
-		<li>{{test.title}}</li>
-		{% endfor %}
-	{# end of example #}
+	<div id="fullpage">	
+		{% include "sections/_header.html" %}
+		{% include "sections/_vacancy.html" %}
+		{% include "sections/_people.html" %}
+		{% include "sections/_steps.html" %}
+		{% include "sections/_train.html" %}
+		{% include "sections/_photo.html" %}
+		{% include "sections/_map.html" %}
+		{% include "sections/_footer.html" %}
+	</div>
+	{% include "partials/_nav-menu.html" %}
+	{% include "partials/_fixed_nav.html" %}
+	{% include "partials/_modal.html" %}
 
 {% endblock %}

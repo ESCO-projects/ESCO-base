@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="night" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 900" style="enable-background:new 0 0 1920 900;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.5" y1="839" x2="0.5" y2="840" gradientTransform="matrix(1920 0 0 -899.999 0 755999.1875)">
+	<stop  offset="0" style="stop-color:#008888"/>
+	<stop  offset="1" style="stop-color:#174474"/>
+</linearGradient>
+<path class="st0" d="M0,0h1920v840c0,0-336.5-60.7-727.7-31.4C959.4,826.1,707.2,900,495,900C211.9,900,0,800,0,800V0z"/>
+</svg>

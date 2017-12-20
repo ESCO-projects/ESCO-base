@@ -1,0 +1,9 @@
+<svg id="Hipster" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1 7">
+    <style>
+        .st0,.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#ccc0cf}.st1{fill:#efdaf5}
+    </style>
+    <g id="Handrail">
+        <path class="st0" d="M0 0h1v7H0z"/>
+        <path class="st1" d="M0 4.1h1v1.4H0z"/>
+    </g>
+</svg>

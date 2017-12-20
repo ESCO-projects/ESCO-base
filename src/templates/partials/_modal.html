@@ -1,0 +1,38 @@
+<div class="modal zoom-anim-dialog mfp-hide">
+	<div class="modal__container">
+
+
+		<div class="modal__bg" style="background-image: url({{modalBG}});">
+			<h4>
+				Записаться на<br>
+				<span>собеседование</span>
+			</h4>
+		</div>
+
+
+		<form class="modal__form js_send_mail">
+			<!-- Hidden Required Fields -->
+				<input type="hidden" name="project_name" value="ESCO team website">
+				<input type="hidden" name="admin_email" value="dianaesco007@gmail.com">
+				<input type="hidden" name="form_subject" value="Заявка на собеседование">
+				<input class="form_id" type="hidden" name="кнопка" value="">
+			<!-- END Hidden Required Fields -->
+
+			<label>
+				<input name="Имя" type="text" placeholder="Ваше имя" required>
+			</label>
+
+			<label>
+				<input name="Телефон" type="mail" placeholder="Ваш телефон" required>
+			</label>
+
+			<label>
+				<textarea name="Комментарий" placeholder="Комментарий"></textarea>
+			</label>
+
+			<button>Отправить</button>
+		</form>
+
+
+	</div>
+</div>

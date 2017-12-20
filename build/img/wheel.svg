@@ -1,0 +1,17 @@
+<svg id="wheel_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.8 8.8">
+    <style>
+        .st0{fill:#333}.st1{fill:#afafaf}.st2{fill:#6d6d6d}.st3{fill:#fff}
+    </style>
+    <circle class="st0" cx="4.4" cy="4.4" r="4.4"/>
+    <circle class="st1" cx="4.4" cy="4.4" r="2.9"/>
+    <circle class="st2" cx="4.4" cy="4.5" r="1.9"/>
+    <ellipse transform="rotate(-60.469 4.375 2.98)" class="st3" cx="4.4" cy="3" rx=".2" ry=".2"/>
+    <ellipse transform="rotate(-60.469 4.375 2.98)" class="st3" cx="4.4" cy="3" rx=".2" ry=".2"/>
+    <ellipse transform="rotate(-45.469 3.327 3.414)" class="st3" cx="3.3" cy="3.4" rx=".2" ry=".2"/>
+    <ellipse transform="matrix(1 -.00818 .00818 1 -.036 .024)" class="st3" cx="2.9" cy="4.5" rx=".2" ry=".2"/>
+    <ellipse transform="rotate(-45.469 3.327 5.51)" class="st3" cx="3.3" cy="5.5" rx=".2" ry=".2"/>
+    <ellipse transform="matrix(1 -.00818 .00818 1 -.049 .036)" class="st3" cx="4.4" cy="5.9" rx=".2" ry=".2"/>
+    <ellipse transform="rotate(-45.469 5.423 5.51)" class="st3" cx="5.4" cy="5.5" rx=".2" ry=".2"/>
+    <ellipse transform="matrix(1 -.00818 .00818 1 -.036 .048)" class="st3" cx="5.9" cy="4.5" rx=".2" ry=".2"/>
+    <ellipse transform="rotate(-45.469 5.423 3.414)" class="st3" cx="5.4" cy="3.4" rx=".2" ry=".2"/>
+</svg>

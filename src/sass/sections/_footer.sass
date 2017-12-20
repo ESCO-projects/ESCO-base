@@ -1,0 +1,146 @@
+$footerColor: #919bb2
+$footerBorder: #c2c2c2
+$footerHover: #283452
+
+.footer
+	background-color: #f7f8fc
+	text-align: center
+	font-family: $GothamProRegular
+	overflow-y: visible
+	a
+		color: $footerColor
+		transition: all 0.3s ease
+		&:hover
+			color: $footerHover
+	.icon
+		transition: all 0.3s ease
+		&:hover
+			fill: $footerHover
+	&__container
+		max-width: 1140px
+		margin: 0 auto
+		min-height: 260px
+	&__top
+		min-height: 104px
+		position: relative
+	&__contact
+		margin: 0 auto
+		max-width: 530px
+		min-height: 70px
+		border-radius: 6px
+		box-shadow: 0 0 20px 5px rgba(0,0,0,0.1)
+		padding-top: 15px
+		opacity: 0
+		background-color: #f7f8fc
+		position: relative
+		z-index: 20
+		a
+			font-size: 18px
+			line-height: 2
+			color: $footerColor
+			display: inline-block
+			font-family: $GothamProMedium
+			width: 49%
+			position: relative
+			.icon
+				fill: #5c415d
+				position: absolute
+				top: 10px
+				font-size: 18px
+			&:first-child
+				padding-right: 30px
+				.icon
+					right: 15px
+				border-right: 1px solid $footerBorder
+			&:last-child
+				padding-left: 30px
+				.icon
+					left: 15px
+	&__call-back
+		display: block
+		background-color: #a1a7be
+		width: 230px
+		height: 40px
+		padding: 10px 15px 0
+		margin: 0 auto 0 -115px
+		border-radius: 20px
+		color: #fefeff!important
+		font-size: 18px
+		text-align: left
+		bottom: 0
+		left: 50%
+		position: absolute
+		opacity: 0
+		&:hover
+			background-color: $footerHover
+			.icon
+				fill: #fff
+				transform: rotate(-180deg)
+		.icon
+			float: right
+			margin-top: 2px
+			fill: #fefeff
+			font-size: 16px
+	&__go-top
+		position: absolute
+		right: 5%
+		bottom: 22px
+		font-family: $GothamProLight
+		font-size: 12px
+		text-transform: uppercase
+		cursor: pointer
+		&:hover
+			.icon
+				fill: $footerHover
+				transform: translateY(-7px)
+		.icon
+			fill: $footerColor
+			font-size: 14px
+			float: right
+			margin: 0 0 0 10px
+	&__center
+		border: 1px solid
+		border-color: $footerBorder transparent $footerBorder transparent
+		> div
+			display: inline-block
+			min-height: 80px
+			vertical-align: middle
+			&:nth-child(2)
+				text-align: left
+				width: 49%
+				border-left: 1px solid $footerBorder
+				border-right: 1px solid $footerBorder
+				padding: 20px 0 0 60px
+				span
+					font-family: $GothamProMedium
+			&:first-child,&:last-child
+				width: 25%
+	&__logo
+		padding-top: 10px
+		.icon
+			fill: $footerColor
+			font-size: 60px
+	&__place
+		.icon
+			font-size: 22px
+			fill: $footerColor
+			float: left
+			margin: 7px 0 0 -30px
+	&__socials
+		padding-top: 20px
+		a
+			display: inline-block
+			vertical-align: bottom
+			margin: 0 5px
+			padding: 10px
+			.icon
+				font-size: 18px
+				fill: $footerColor
+				transition: all 0.3s ease
+	&__bottom
+		padding: 20px 0
+		p
+			color: $footerColor
+			margin: 5px 0
+			span
+				font-family: $GothamProMedium

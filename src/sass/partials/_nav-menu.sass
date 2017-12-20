@@ -1,0 +1,59 @@
+.nav
+	max-width: 1360px
+	padding: 0 20px
+	text-align: center
+	margin: 0 auto
+	justify-content: space-between
+	li
+		display: inline-block
+		background-color: transparent
+		border-radius: 25px
+		height: 50px
+		margin: 0 10px
+		border-color: darken($buttonColor, 20%)
+		transition: all 0.4s ease
+		opacity: 0
+		+r(1200)
+			display: block
+			max-width: 320px
+			margin: 20px auto
+		.mask
+			transition: all 3s cubic-bezier(0.19, 1, 0.22, 1)!important
+		+r(1300)
+			height: 40px
+			a
+				font-size: 13px
+				padding: 8px 12px 0
+		&.active
+			background-color: $buttonColor
+			border-color: transparent
+			a
+				font-family: $GothamProBold
+				color: #000
+		&:hover
+			background-color: $buttonColor
+		a
+			display: block
+			height: 100%
+			vertical-align: middle
+			color: #fff
+			padding: 13px 20px 0
+			font-size: 14px
+			text-transform: uppercase
+			font-family: $GothamProMedium
+			transition: all 0.5s ease
+			+r(1375)
+				padding: 12px 15px 0
+			
+
+.mfp-close
+	right: 40px!important
+	top: 90px!important
+	opacity: 1!important
+	font-size: 44px!important
+	transition: all 0.5s ease
+	+r(600)
+		right: 8px!important
+		top: 10px!important
+	&:hover
+		transform: rotate(360deg)

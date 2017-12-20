@@ -1,0 +1,443 @@
+h1
+	margin: 0 auto
+	font-size: 16px
+	color: #fff
+	font-family: $GothamProLight
+
+.head
+	min-height: 480px
+	height: 100vh
+	background-repeat: no-repeat
+	background-position: left top
+	background-size: cover
+	position: relative
+	max-width: 100%
+	.days
+		position: absolute
+		height: 100%
+		width: 100%
+		background-size: contain, 45%, 100%, 100%
+		background-position: right bottom, 90% 88%, -300px 8%
+		background-repeat: no-repeat
+		+r(1600)
+			background-position: right bottom, 90% 92%, 0 0
+		+r(1300)
+			background-size: contain, 45%, 105%, 100%
+			background-position: right bottom, 90% 94%, 0 -20%
+		+r(1140)
+			background-size: contain, 45%, 105%, 100%
+			background-position: right bottom, 90% 94%, 0 -15%
+		+r(991)
+			background-size: contain, 65%, 0, 100%
+			background-position: right bottom, 90% 100%, 0 0
+		+r(767)
+			background-size: contain, 480px, 0, 100%
+			background-position: right bottom, 90% 100%, 0 0
+		+r(480)
+			background-size: contain, 100%, 0, 100%
+	&__content
+		height: 100vh
+		background-repeat: no-repeat
+		background-size: cover
+	&__night
+		z-index: 4
+	&__day
+		z-index: 3
+	&__logo
+		position: absolute
+		left: 0
+		top: 0
+		max-width: 680px
+		width: 100%
+		min-height: 200px
+		background-repeat: no-repeat
+		background-position: left top
+		background-size: contain
+		z-index: 11
+		+r(1400)
+			max-width: 500px
+			padding-right: 40px
+			a
+				max-width: 120px
+		+r(991)
+			max-width: 300px
+			min-height: 100px
+			top: -5px
+			a
+				margin: 10px auto 0
+				img
+					max-width: 90px
+					margin: 0 auto
+		+r(410)
+			max-width: 270px
+			padding-left: 10px
+			a
+				img
+					max-width: 75px
+		a
+			display: block
+			max-width: 160px
+			margin: 23px auto 0
+			img
+				display: block
+				max-width: 100%
+				height: auto
+	&__logo-descr
+		position: absolute
+		left: 390px
+		top: 0
+		max-width: 622px
+		width: 100%
+		height: 115px
+		background-repeat: no-repeat
+		padding-top: 15px
+		padding-left: 90px
+		z-index: 10
+		+r(1400)
+			left: 320px
+			padding-left: 0
+			padding-right: 24px
+			max-width: 580px
+			background-size: cover
+			background-position: 43%
+			h1
+				&::before
+					display: none
+		+r(991)
+			left: 170px
+			height: 115px
+			padding-top: 15px
+			padding-right: 45px
+		+r(767)
+			display: none
+		h1
+			width: 420px
+			position: relative
+			&::before
+				position: absolute
+				content: ''
+				width: 20px
+				height: 1px
+				background-color: #000
+				left: -30px
+				top: 9px
+	&__top
+		max-width: 1400px
+		padding: 45px 15px 0
+		margin: 0 auto
+		+r(1140)
+			padding: 25px 15px 0
+		> div
+			float: right
+	&__contact
+		padding-right: 20px
+		position: relative
+		z-index: 11
+		+r(1140)
+			clear: both
+			margin-top: 30px
+			margin-right: 5px
+		+r(320)
+			display: none
+		&:hover
+			a
+				&:last-child
+					transform: translateY(0)
+					opacity: 1
+		&::after
+			position: absolute
+			content: ''
+			right: 0
+			top: 5px
+			width: 10px
+			height: 10px
+			border: 2px solid
+			border-radius: 2px
+			border-color: transparent transparent #fff #fff
+			transform: rotate(-45deg)
+		a
+			display: block
+			font-size: 24px
+			color: #fff
+			text-decoration: none
+			font-family: $ComfortaaRegular
+			margin-bottom: 5px
+			+r(1140)
+				font-size: 20px
+			+r(480)
+				font-size: 16px
+			+r(360)
+				font-size: 14px
+			&:last-child
+				transition: all 0.3s ease
+				transform: translateY(-50%)
+				opacity: 0
+	&__menu
+		margin-left: 100px
+		font-family: $ComfortaaLight
+		font-size: 22px
+		position: relative
+		z-index: 11
+		color: #fff
+		float: right
+		&__lines
+			float: right
+			margin: 3px 5px 0
+			width: 26px
+			height: 21px
+			position: relative
+			overflow: hidden
+			> div
+				width: 100%
+				height: 3px
+				background-color: #FFF
+				margin-bottom: 6px
+				border-radius: 2px
+				&:first-child
+				&:nth-child(2)
+					animation: menu 2s linear infinite
+				&:last-child
+					margin-bottom: 0
+		&:hover
+			div
+				&:nth-child(2)
+					animation-play-state: paused
+	&__center
+		max-width: 1400px
+		margin: 25vh auto 0
+		padding: 0 15px
+		height: auto
+		padding-top: 100px
+		position: relative
+		z-index: 11
+		+r(480)
+			margin: 20vh auto 0
+		h1
+			display: none
+			+r(767)
+				display: block
+				text-align: center
+				margin-top: 30px
+			+r(480)
+				font-size: 14px
+		h2
+			text-align: center
+			font-family: $ExoBold
+			font-size: 62px
+			line-height: 0.7
+			color: #fff
+			opacity: 0
+			+r(991)
+				font-size: 52px
+			+r(767)
+				font-size: 44px
+			+r(600)
+				font-size: 34px
+			+r(480)
+				font-size: 28px
+			+r(410)
+				font-size: 26px
+			+r(360)
+				font-size: 22px
+			span.letter
+				display: inline-block
+			.dotline
+				position: relative
+				&::before,&::after
+					position: absolute
+					content: ''
+					left: 10%
+					+r(767)
+						left: 3%
+					+r(600)
+						left: -10%
+				&::before
+					width: 10px
+					height: 10px
+					background-color: #FFF
+					bottom: -20px
+					z-index: 2
+				&::after
+					width: 105%
+					height: 1px
+					background-color: #000
+					opacity: 0.1
+					bottom: -16px
+					+r(600)
+						width: 115%
+			.top_span
+				font-family: $ExoMedium
+				display: inline-block
+			.sp
+				padding-right: 0.3em
+			.bottom_span
+				font-size: 26px
+				+r(767)
+					font-size: 24px
+				+r(600)
+					font-size: 20px
+				+r(480)
+					font-size: 16px
+				+r(360)
+					font-size: 14px
+	&__map
+		position: absolute
+		right: 20px
+		top: 0
+		z-index: 11
+		opacity: 0
+		cursor: pointer
+		+r(480)
+			top: 40px
+			.icon-map
+				font-size: 30px
+				margin: 0 5px -10px 0
+			span
+				font-size: 16px
+		.icon-map
+			fill: #fff
+			font-size: 44px
+			margin: 0 15px -18px 0
+		span
+			font-size: 22px
+			color: #fff
+			border-bottom: 1px solid #fff
+			font-family: $ComfortaaLight
+
+@keyframes menu
+	0%
+		transform: translateX(0)
+	50%
+		transform: translateX(6px)
+	0%
+		transform: translateX(0)
+
+.step_line
+	position: relative
+	z-index: 3
+	width: 100%
+	height: 100%
+
+.moon,.sun
+	position: absolute
+	z-index: 12
+	top: 20%
+	right: 50%
+
+.moon
+	height: 70px
+	width: 70px
+	img
+		display: block
+		width: 100%
+
+.sun
+  width: 54px
+  height: 54px
+  border-radius: 50%
+  background: white
+  opacity: 0.9
+  box-shadow: 0px 0px 30px 10px white
+  transform: scale(0.45) translateX(140vw) translateY(100vh)
+  +r(1140)
+  	transform: scale(0.45) translateX(150vw) translateY(100vh)
+  +r(767)
+  	transform: scale(0.45) translateX(165vw) translateY(100vh)
+
+.ray_box
+  position: absolute
+  margin: auto
+  top: 0px
+  left: 0
+  right: 0
+  bottom: 0
+  width: 70px
+  animation: ray_anim 120s linear infinite
+  +r(480)
+  	display: none
+
+.ray
+	margin-left: 10px
+	border-radius: 80% 80% 0 0
+	position: absolute
+	opacity: 0.1
+	background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0))
+
+.ray1
+  height: 170px
+  width: 30px
+  transform: rotate(180deg)
+  top: -175px
+  left: 15px
+
+.ray2
+  height: 100px
+  width: 8px
+  transform: rotate(220deg)
+  top: -90px
+  left: 75px
+
+.ray3
+  height: 170px
+  width: 50px
+  transform: rotate(250deg)
+  top: -80px
+  left: 100px
+
+.ray4
+  height: 120px
+  width: 14px
+  transform: rotate(305deg)
+  top: 30px
+  left: 100px
+
+.ray5
+  height: 140px
+  width: 30px
+  transform: rotate(-15deg)
+  top: 60px
+  left: 40px
+
+.ray6
+  height: 90px
+  width: 50px
+  transform: rotate(30deg)
+  top: 60px
+  left: -40px
+
+.ray7
+  height: 180px
+  width: 10px
+  transform: rotate(70deg)
+  top: -35px
+  left: -40px
+
+.ray8
+  height: 120px
+  width: 30px
+  transform: rotate(100deg)
+  top: -45px
+  left: -90px
+
+.ray9
+  height: 80px
+  width: 10px
+  transform: rotate(120deg)
+  top: -65px
+  left: -60px
+
+.ray10
+  height: 190px
+  width: 23px
+  transform: rotate(150deg)
+  top: -185px
+  left: -60px
+
+@keyframes ray_anim
+  0%
+    transform: rotate(0deg)
+  100%
+    transform: rotate(360deg)
+
+
+

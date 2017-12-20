@@ -1,0 +1,285 @@
+<!-- start section with jobs tabs -->
+<div class="vlist">
+
+	<div class="vlist__container">
+
+		<!-- start job cities list -->
+		<ul class="vlist__top">
+			<li class="active" data-jobcitys="js_jobs_kiev">Киев</li>
+			<li data-jobcitys="js_jobs_kharkiv">Харьков</li>
+			<li data-jobcitys="js_jobs_odessa">Одесса</li>
+			<li data-jobcitys="js_jobs_kherson">Херсон</li>
+		</ul>
+		<!-- end job cities list -->
+
+		
+		<!-- start opened vacancies by city -->
+		{% include "../jobs/_jobs-kiev.html" %}
+
+		{% include "../jobs/_jobs-kharkiv.html" %}
+
+		{% include "../jobs/_jobs-odessa.html" %}
+
+		{% include "../jobs/_jobs-kherson.html" %}
+		<!-- end opened vacancies by city -->
+
+	</div>
+</div>
+<!-- end section with jobs tabs -->
+
+
+<!-- start cotacts icons-text by city -->
+<div class="vlist__contacts">
+		<!-- start kiev -->
+		<ul class="active js_jobs_kiev">
+			<li>
+				<div class="vlist__contacts__icon">
+					{{mixins.icon('map')}}
+				</div>
+				<div class="vlist__contacts__text">
+
+					Киев, ул. Старокиевская 10Г<br>
+					<span>Бизнес центр «Вектор», корпус А</span>
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('phone')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					<a href="tel:+380935332431">+380 93 533 2431</a>
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('mail')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+					<a href="mailto:hr@esco.team">hr@esco.team</a>
+				</div>
+			</li>
+		</ul>
+		<!-- end kiev -->
+		
+		<!-- start kharkiv -->
+		<ul class="js_jobs_kharkiv">
+			<li>
+				<div class="vlist__contacts__icon">
+					{{mixins.icon('map')}}
+				</div>
+				<div class="vlist__contacts__text">
+
+					Харьков, ул. Полтавский Шлях 58 оф. 515
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('phone')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					<a href="tel:+380635778040">+380 63 577 80 40</a>
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('mail')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					<a href="mailto:hr@esco.team">hr@esco.team</a>
+
+				</div>
+			</li>
+		</ul>
+		<!-- end kharkiv -->
+
+		<!-- start odessa -->
+		<ul class="js_jobs_odessa">
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('map')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					Одесса, ул. Юрия Олеши 4 оф. 1
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('phone')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					<a href="tel:+380635125334">+380 63 512 5334</a>
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('mail')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					<a href="mailto:hr@esco.team">hr@esco.team</a>
+
+				</div>
+			</li>
+		</ul>
+		<!-- end odessa -->
+		
+		<!-- start kherson -->
+		<ul class="js_jobs_kherson">
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('map')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					Херсон, ул. Вячеслава Черновола 17а<br>
+					<span>2 этаж оф. 207</span>
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('phone')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					<a href="tel:+380954810269">+380 95 481 0269</a>
+
+				</div>
+			</li>
+			<li>
+				<div class="vlist__contacts__icon">
+
+					{{mixins.icon('mail')}}
+
+				</div>
+				<div class="vlist__contacts__text">
+
+					<a href="mailto:hr@esco.team">hr@esco.team</a>
+
+				</div>
+			</li>
+		</ul>
+		<!-- start kherson -->
+
+</div>
+<!-- end cotacts icons-text by city -->
+
+
+<!-- start vacancy page footer -->
+<footer class="v_footer">
+
+	<div class="v_footer__container">
+
+		<div class="v_footer__text">
+			<div class="v_footer__text__title">
+				Мы с радостью приглашаем<br>
+				открытых, коммуникабельный<br>
+				и целеустремленный<br>
+				<span>людей к нашей команде!</span>
+			</div>
+
+			<div class="v_footer__text__img">
+				<img src="{{footer_img}}">
+			</div>
+			<p class="v_footer__copy">© <span>2017</span> Esco studio</p>
+		</div>
+	
+	<!-- start footer form -->
+	<div class="v_footer__form">
+		<form class="js_send_mail">
+				<input type="hidden" name="project_name" value="ESCO team website">
+				<input type="hidden" name="admin_email" value="dianaesco007@gmail.com">
+				<input type="hidden" name="form_subject" value="Заявка на собеседование">
+				<input type="hidden" name="Форма:" value="страница вакансий открытая форма">
+			<div class="v_footer__form__container">
+				<div>
+
+					<label>
+						<input type="text" name="Имя" placeholder="Ваше имя" required autocomplete="off">
+					</label>
+
+					<label>
+						<span>Вид занятости</span>
+						<select name="Вид занятости" required>
+							<option value="" disabled selected>выбрать</option>
+							<option value="полная">полная</option>
+							<option value="не полная">не полная</option>
+						</select>
+					</label>
+
+					<label>
+						<span>Город</span>
+						<select name="Город" required>
+							<option value="" disabled selected>выбрать</option>
+							<option value="Киев">Киев</option>
+							<option value="Харьков">Харьков</option>
+							<option value="Одесса">Одесса</option>
+							<option value="Херсон">Херсон</option>
+						</select>
+					</label>
+
+				</div>
+
+				<div>
+					
+					<label>
+						<input type="tel" name="Телефон" placeholder="Ваш телефон" required autocomplete="off">
+					</label>
+
+					<label>
+						<input type="text" name="Год рождения" placeholder="Год рождения" required autocomplete="off">
+					</label>
+
+				</div>
+			</div>
+			<button type="submit">Отправить заявку</button>
+		</form>
+	</div>
+	<!-- end footer form -->
+
+	</div>
+	<!-- end footer container -->
+</footer>
+<!-- end vacancy page footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
